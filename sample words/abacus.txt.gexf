@@ -1,0 +1,57 @@
+<graph defaultedgetype="directed">
+
+<nodes>
+<node id='abac-n-ro' label='abac-n-ro'/>
+<node id='abaque-n-fr' label='abaque-n-fr'/>
+<node id='abacus-n-en' label='abacus-n-en'/>
+<node id='àbac-n-ca' label='àbac-n-ca'/>
+<node id='boulier-n-fr' label='boulier-n-fr'/>
+<node id='tabulo-n-eo' label='tabulo-n-eo'/>
+<node id='table-n-fr' label='table-n-fr'/>
+<node id='nomogramme-n-fr' label='nomogramme-n-fr'/>
+<node id='tabla-n-es' label='tabla-n-es'/>
+<node id='ábaco-n-es' label='ábaco-n-es'/>
+<node id='taula-n-ca' label='taula-n-ca'/>
+<node id='abako-n-eo' label='abako-n-eo'/>
+<node id='mesa-n-es' label='mesa-n-es'/>
+<node id='abac-n-oc' label='abac-n-oc'/>
+<node id='tablo-n-eo' label='tablo-n-eo'/>
+<node id='abaco-n-it' label='abaco-n-it'/>
+</nodes>
+
+<edges>
+<edge  id='1' source='abacus-n-en' target='àbac-n-ca'/>
+<edge  id='2' source='àbac-n-ca' target='abaco-n-it'/>
+<edge  id='3' source='abaco-n-it' target='àbac-n-ca'/>
+<edge  id='4' source='àbac-n-ca' target='abacus-n-en'/>
+<edge  id='5' source='àbac-n-ca' target='ábaco-n-es'/>
+<edge  id='6' source='ábaco-n-es' target='abako-n-eo'/>
+<edge  id='7' source='ábaco-n-es' target='abacus-n-en'/>
+<edge  id='8' source='ábaco-n-es' target='àbac-n-ca'/>
+<edge  id='9' source='ábaco-n-es' target='abac-n-ro'/>
+<edge  id='10' source='ábaco-n-es' target='abac-n-oc'/>
+<edge  id='11' source='àbac-n-ca' target='abac-n-oc'/>
+<edge  id='12' source='abac-n-oc' target='àbac-n-ca'/>
+<edge  id='13' source='abac-n-oc' target='ábaco-n-es'/>
+<edge  id='14' source='àbac-n-ca' target='abako-n-eo'/>
+<edge  id='15' source='abako-n-eo' target='ábaco-n-es'/>
+<edge  id='16' source='abako-n-eo' target='abacus-n-en'/>
+<edge  id='17' source='abako-n-eo' target='abaque-n-fr'/>
+<edge  id='18' source='abako-n-eo' target='boulier-n-fr'/>
+<edge  id='19' source='abako-n-eo' target='nomogramme-n-fr'/>
+<edge  id='20' source='abako-n-eo' target='table-n-fr'/>
+<edge  id='21' source='abako-n-eo' target='àbac-n-ca'/>
+<edge  id='22' source='abacus-n-en' target='ábaco-n-es'/>
+<edge  id='23' source='abac-n-ro' target='ábaco-n-es'/>
+<edge  id='24' source='abacus-n-en' target='abako-n-eo'/>
+<edge  id='25' source='abaque-n-fr' target='abako-n-eo'/>
+<edge  id='26' source='boulier-n-fr' target='abako-n-eo'/>
+<edge  id='27' source='nomogramme-n-fr' target='abako-n-eo'/>
+<edge  id='28' source='table-n-fr' target='tabla-n-es'/>
+<edge  id='29' source='table-n-fr' target='mesa-n-es'/>
+<edge  id='30' source='table-n-fr' target='taula-n-ca'/>
+<edge  id='31' source='table-n-fr' target='tablo-n-eo'/>
+<edge  id='32' source='table-n-fr' target='tabulo-n-eo'/>
+<edge  id='33' source='table-n-fr' target='abako-n-eo'/>
+</edges>
+</graph>

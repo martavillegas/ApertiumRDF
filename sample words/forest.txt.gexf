@@ -1,0 +1,257 @@
+<graph defaultedgetype="directed">
+
+<nodes>
+<node id='verre-n-fr' label='verre-n-fr'/>
+<node id='vidrio-n-es' label='vidrio-n-es'/>
+<node id='vaso-n-gl' label='vaso-n-gl'/>
+<node id='fuorto-n-eo' label='fuorto-n-eo'/>
+<node id='llenya-n-ca' label='llenya-n-ca'/>
+<node id='floresta-n-pt' label='floresta-n-pt'/>
+<node id='monte-n-es' label='monte-n-es'/>
+<node id='búcaro-n-es' label='búcaro-n-es'/>
+<node id='arboleda-n-es' label='arboleda-n-es'/>
+<node id='floreiro-n-gl' label='floreiro-n-gl'/>
+<node id='leña-n-es' label='leña-n-es'/>
+<node id='montaña-n-es' label='montaña-n-es'/>
+<node id='ligno-n-eo' label='ligno-n-eo'/>
+<node id='pahar-n-ro' label='pahar-n-ro'/>
+<node id='veire-n-oc' label='veire-n-oc'/>
+<node id='xerro-n-gl' label='xerro-n-gl'/>
+<node id='bosco-n-it' label='bosco-n-it'/>
+<node id='vazo-n-eo' label='vazo-n-eo'/>
+<node id='selva-n-ast' label='selva-n-ast'/>
+<node id='wood-n-en' label='wood-n-en'/>
+<node id='glass-n-en' label='glass-n-en'/>
+<node id='vaso-n-es' label='vaso-n-es'/>
+<node id='bosque-n-pt' label='bosque-n-pt'/>
+<node id='viesca-n-ast' label='viesca-n-ast'/>
+<node id='gerro-n-ca' label='gerro-n-ca'/>
+<node id='bosko-n-eo' label='bosko-n-eo'/>
+<node id='vas-n-ca' label='vas-n-ca'/>
+<node id='kristal-n-eu' label='kristal-n-eu'/>
+<node id='arbareto-n-eo' label='arbareto-n-eo'/>
+<node id='fusta-n-ca' label='fusta-n-ca'/>
+<node id='jarro-n-es' label='jarro-n-es'/>
+<node id='beira-n-eu' label='beira-n-eu'/>
+<node id='vidre-n-ca' label='vidre-n-ca'/>
+<node id='forsto-n-eo' label='forsto-n-eo'/>
+<node id='sèuva-n-oc' label='sèuva-n-oc'/>
+<node id='forest-n-en' label='forest-n-en'/>
+<node id='brulligno-n-eo' label='brulligno-n-eo'/>
+<node id='bois-n-fr' label='bois-n-fr'/>
+<node id='foresta-n-it' label='foresta-n-it'/>
+<node id='copa-n-ca' label='copa-n-ca'/>
+<node id='selva-n-pt' label='selva-n-pt'/>
+<node id='bosc-n-ca' label='bosc-n-ca'/>
+<node id='copo-n-pt' label='copo-n-pt'/>
+<node id='jarrón-n-es' label='jarrón-n-es'/>
+<node id='madeira-n-gl' label='madeira-n-gl'/>
+<node id='floresta-n-es' label='floresta-n-es'/>
+<node id='kornaro-n-eo' label='kornaro-n-eo'/>
+<node id='pinar-n-es' label='pinar-n-es'/>
+<node id='pitxer-n-ca' label='pitxer-n-ca'/>
+<node id='fort-n-fr' label='fort-n-fr'/>
+<node id='abiarbaro-n-eo' label='abiarbaro-n-eo'/>
+<node id='baso-n-eu' label='baso-n-eu'/>
+<node id='boscatge-n-ca' label='boscatge-n-ca'/>
+<node id='zur-n-eu' label='zur-n-eu'/>
+<node id='got-n-ca' label='got-n-ca'/>
+<node id='cristal-n-es' label='cristal-n-es'/>
+<node id='glaso-n-eo' label='glaso-n-eo'/>
+<node id='bosque-n-gl' label='bosque-n-gl'/>
+<node id='monte-n-ast' label='monte-n-ast'/>
+<node id='selva-n-es' label='selva-n-es'/>
+<node id='kornobranaro-n-eo' label='kornobranaro-n-eo'/>
+<node id='bòsc-n-oc' label='bòsc-n-oc'/>
+<node id='arbreda-n-ca' label='arbreda-n-ca'/>
+<node id='fustam-n-ca' label='fustam-n-ca'/>
+<node id='copa-n-es' label='copa-n-es'/>
+<node id='fraga-n-gl' label='fraga-n-gl'/>
+<node id='mata-n-ast' label='mata-n-ast'/>
+<node id='madera-n-es' label='madera-n-es'/>
+<node id='copa-n-gl' label='copa-n-gl'/>
+<node id='pdure-n-ro' label='pdure-n-ro'/>
+<node id='pineda-n-ca' label='pineda-n-ca'/>
+<node id='praarbaro-n-eo' label='praarbaro-n-eo'/>
+<node id='vase-n-en' label='vase-n-en'/>
+<node id='vidro-n-gl' label='vidro-n-gl'/>
+<node id='codru-n-ro' label='codru-n-ro'/>
+<node id='llenyam-n-ca' label='llenyam-n-ca'/>
+<node id='bosque-n-es' label='bosque-n-es'/>
+<node id='pinarbaro-n-eo' label='pinarbaro-n-eo'/>
+<node id='cristal-n-gl' label='cristal-n-gl'/>
+<node id='exploitationforestière-n-fr' label='exploitationforestière-n-fr'/>
+<node id='selva-n-ca' label='selva-n-ca'/>
+<node id='selva-n-gl' label='selva-n-gl'/>
+<node id='ornamavazo-n-eo' label='ornamavazo-n-eo'/>
+<node id='arbaro-n-eo' label='arbaro-n-eo'/>
+<node id='angalo-n-eo' label='angalo-n-eo'/>
+<node id='woodland-n-en' label='woodland-n-en'/>
+<node id='vitro-n-eo' label='vitro-n-eo'/>
+<node id='vasu-n-ast' label='vasu-n-ast'/>
+</nodes>
+
+<edges>
+<edge  id='1' source='forest-n-en' target='bosc-n-ca'/>
+<edge  id='2' source='bosc-n-ca' target='bosque-n-pt'/>
+<edge  id='3' source='bosque-n-pt' target='bosc-n-ca'/>
+<edge  id='4' source='bosque-n-pt' target='bosque-n-gl'/>
+<edge  id='5' source='bosque-n-pt' target='bosque-n-es'/>
+<edge  id='6' source='bosc-n-ca' target='bosco-n-it'/>
+<edge  id='7' source='bosco-n-it' target='bosc-n-ca'/>
+<edge  id='8' source='bosc-n-ca' target='foresta-n-it'/>
+<edge  id='9' source='foresta-n-it' target='boscatge-n-ca'/>
+<edge  id='10' source='foresta-n-it' target='bosc-n-ca'/>
+<edge  id='11' source='wood-n-en' target='bosc-n-ca'/>
+<edge  id='12' source='wood-n-en' target='fusta-n-ca'/>
+<edge  id='13' source='wood-n-en' target='fustam-n-ca'/>
+<edge  id='14' source='wood-n-en' target='llenyam-n-ca'/>
+<edge  id='15' source='wood-n-en' target='bosque-n-es'/>
+<edge  id='16' source='wood-n-en' target='madera-n-es'/>
+<edge  id='17' source='wood-n-en' target='bosque-n-gl'/>
+<edge  id='18' source='wood-n-en' target='madeira-n-gl'/>
+<edge  id='19' source='wood-n-en' target='ligno-n-eo'/>
+<edge  id='20' source='wood-n-en' target='arbaro-n-eo'/>
+<edge  id='21' source='wood-n-en' target='arbareto-n-eo'/>
+<edge  id='22' source='wood-n-en' target='bosko-n-eo'/>
+<edge  id='23' source='wood-n-en' target='baso-n-eu'/>
+<edge  id='24' source='wood-n-en' target='zur-n-eu'/>
+<edge  id='25' source='bosc-n-ca' target='forest-n-en'/>
+<edge  id='26' source='bosc-n-ca' target='bosque-n-es'/>
+<edge  id='27' source='bosque-n-es' target='arbaro-n-eo'/>
+<edge  id='28' source='bosque-n-es' target='bois-n-fr'/>
+<edge  id='29' source='bosque-n-es' target='fort-n-fr'/>
+<edge  id='30' source='bosque-n-es' target='forest-n-en'/>
+<edge  id='31' source='bosque-n-es' target='bosc-n-ca'/>
+<edge  id='32' source='bosque-n-es' target='baso-n-eu'/>
+<edge  id='33' source='bosque-n-es' target='pdure-n-ro'/>
+<edge  id='34' source='bosque-n-es' target='codru-n-ro'/>
+<edge  id='35' source='bosque-n-es' target='monte-n-ast'/>
+<edge  id='36' source='bosque-n-es' target='mata-n-ast'/>
+<edge  id='37' source='bosque-n-es' target='viesca-n-ast'/>
+<edge  id='38' source='bosque-n-es' target='bosque-n-gl'/>
+<edge  id='39' source='bosque-n-es' target='fraga-n-gl'/>
+<edge  id='40' source='bosque-n-es' target='bòsc-n-oc'/>
+<edge  id='41' source='bosque-n-es' target='bosque-n-pt'/>
+<edge  id='42' source='bosc-n-ca' target='bòsc-n-oc'/>
+<edge  id='43' source='bòsc-n-oc' target='bosc-n-ca'/>
+<edge  id='44' source='bòsc-n-oc' target='bosque-n-es'/>
+<edge  id='45' source='bosc-n-ca' target='bois-n-fr'/>
+<edge  id='46' source='bois-n-fr' target='bosque-n-es'/>
+<edge  id='47' source='bois-n-fr' target='leña-n-es'/>
+<edge  id='48' source='bois-n-fr' target='madera-n-es'/>
+<edge  id='49' source='bois-n-fr' target='arboleda-n-es'/>
+<edge  id='50' source='bois-n-fr' target='fusta-n-ca'/>
+<edge  id='51' source='bois-n-fr' target='bosc-n-ca'/>
+<edge  id='52' source='bois-n-fr' target='llenya-n-ca'/>
+<edge  id='53' source='bois-n-fr' target='bosko-n-eo'/>
+<edge  id='54' source='bois-n-fr' target='kornobranaro-n-eo'/>
+<edge  id='55' source='bois-n-fr' target='arbaro-n-eo'/>
+<edge  id='56' source='bois-n-fr' target='brulligno-n-eo'/>
+<edge  id='57' source='bois-n-fr' target='ligno-n-eo'/>
+<edge  id='58' source='bois-n-fr' target='kornaro-n-eo'/>
+<edge  id='59' source='bosc-n-ca' target='fort-n-fr'/>
+<edge  id='60' source='fort-n-fr' target='bosque-n-es'/>
+<edge  id='61' source='fort-n-fr' target='selva-n-es'/>
+<edge  id='62' source='fort-n-fr' target='bosc-n-ca'/>
+<edge  id='63' source='fort-n-fr' target='arbaro-n-eo'/>
+<edge  id='64' source='fort-n-fr' target='fuorto-n-eo'/>
+<edge  id='65' source='fort-n-fr' target='praarbaro-n-eo'/>
+<edge  id='66' source='bosc-n-ca' target='arbaro-n-eo'/>
+<edge  id='67' source='arbaro-n-eo' target='bosque-n-es'/>
+<edge  id='68' source='arbaro-n-eo' target='forest-n-en'/>
+<edge  id='69' source='arbaro-n-eo' target='bois-n-fr'/>
+<edge  id='70' source='arbaro-n-eo' target='fort-n-fr'/>
+<edge  id='71' source='arbaro-n-eo' target='bosc-n-ca'/>
+<edge  id='72' source='arbaro-n-eo' target='arbreda-n-ca'/>
+<edge  id='73' source='arbaro-n-eo' target='selva-n-ca'/>
+<edge  id='74' source='forest-n-en' target='bosque-n-es'/>
+<edge  id='75' source='woodland-n-en' target='bosque-n-es'/>
+<edge  id='76' source='woodland-n-en' target='bosque-n-gl'/>
+<edge  id='77' source='woodland-n-en' target='arbaro-n-eo'/>
+<edge  id='78' source='baso-n-eu' target='vaso-n-es'/>
+<edge  id='79' source='baso-n-eu' target='bosque-n-es'/>
+<edge  id='80' source='baso-n-eu' target='selva-n-es'/>
+<edge  id='81' source='baso-n-eu' target='forest-n-en'/>
+<edge  id='82' source='pdure-n-ro' target='bosque-n-es'/>
+<edge  id='83' source='codru-n-ro' target='bosque-n-es'/>
+<edge  id='84' source='monte-n-ast' target='bosque-n-es'/>
+<edge  id='85' source='monte-n-ast' target='montaña-n-es'/>
+<edge  id='86' source='monte-n-ast' target='monte-n-es'/>
+<edge  id='87' source='mata-n-ast' target='bosque-n-es'/>
+<edge  id='88' source='viesca-n-ast' target='bosque-n-es'/>
+<edge  id='89' source='bosque-n-gl' target='bosque-n-pt'/>
+<edge  id='90' source='bosque-n-gl' target='floresta-n-pt'/>
+<edge  id='91' source='bosque-n-gl' target='forest-n-en'/>
+<edge  id='92' source='bosque-n-gl' target='bosque-n-es'/>
+<edge  id='93' source='fraga-n-gl' target='floresta-n-pt'/>
+<edge  id='94' source='fraga-n-gl' target='forest-n-en'/>
+<edge  id='95' source='fraga-n-gl' target='bosque-n-es'/>
+<edge  id='96' source='forest-n-en' target='fraga-n-gl'/>
+<edge  id='97' source='floresta-n-pt' target='bosque-n-gl'/>
+<edge  id='98' source='floresta-n-pt' target='fraga-n-gl'/>
+<edge  id='99' source='floresta-n-pt' target='floresta-n-es'/>
+<edge  id='100' source='forest-n-en' target='bosque-n-gl'/>
+<edge  id='101' source='forest-n-en' target='arbaro-n-eo'/>
+<edge  id='102' source='arbreda-n-ca' target='arbaro-n-eo'/>
+<edge  id='103' source='selva-n-ca' target='selva-n-pt'/>
+<edge  id='104' source='selva-n-ca' target='sèuva-n-oc'/>
+<edge  id='105' source='selva-n-ca' target='arbaro-n-eo'/>
+<edge  id='106' source='selva-n-ca' target='angalo-n-eo'/>
+<edge  id='107' source='forest-n-en' target='abiarbaro-n-eo'/>
+<edge  id='108' source='abiarbaro-n-eo' target='forest-n-en'/>
+<edge  id='109' source='forest-n-en' target='pinarbaro-n-eo'/>
+<edge  id='110' source='pinarbaro-n-eo' target='forest-n-en'/>
+<edge  id='111' source='pinarbaro-n-eo' target='pineda-n-ca'/>
+<edge  id='112' source='pineda-n-ca' target='pinar-n-es'/>
+<edge  id='113' source='pineda-n-ca' target='pinarbaro-n-eo'/>
+<edge  id='114' source='forest-n-en' target='forsto-n-eo'/>
+<edge  id='115' source='forsto-n-eo' target='forest-n-en'/>
+<edge  id='116' source='forsto-n-eo' target='exploitationforestière-n-fr'/>
+<edge  id='117' source='exploitationforestière-n-fr' target='forsto-n-eo'/>
+<edge  id='118' source='forest-n-en' target='baso-n-eu'/>
+<edge  id='119' source='vaso-n-es' target='glaso-n-eo'/>
+<edge  id='120' source='vaso-n-es' target='verre-n-fr'/>
+<edge  id='121' source='vaso-n-es' target='got-n-ca'/>
+<edge  id='122' source='vaso-n-es' target='vas-n-ca'/>
+<edge  id='123' source='vaso-n-es' target='baso-n-eu'/>
+<edge  id='124' source='vaso-n-es' target='pahar-n-ro'/>
+<edge  id='125' source='vaso-n-es' target='vasu-n-ast'/>
+<edge  id='126' source='vaso-n-es' target='vaso-n-gl'/>
+<edge  id='127' source='vaso-n-es' target='veire-n-oc'/>
+<edge  id='128' source='vaso-n-es' target='copo-n-pt'/>
+<edge  id='129' source='selva-n-es' target='praarbaro-n-eo'/>
+<edge  id='130' source='selva-n-es' target='fort-n-fr'/>
+<edge  id='131' source='selva-n-es' target='baso-n-eu'/>
+<edge  id='132' source='selva-n-es' target='selva-n-ast'/>
+<edge  id='133' source='selva-n-es' target='selva-n-gl'/>
+<edge  id='134' source='selva-n-es' target='sèuva-n-oc'/>
+<edge  id='135' source='selva-n-es' target='selva-n-pt'/>
+<edge  id='136' source='glass-n-en' target='got-n-ca'/>
+<edge  id='137' source='glass-n-en' target='vidre-n-ca'/>
+<edge  id='138' source='glass-n-en' target='copa-n-ca'/>
+<edge  id='139' source='glass-n-en' target='cristal-n-es'/>
+<edge  id='140' source='glass-n-en' target='vaso-n-es'/>
+<edge  id='141' source='glass-n-en' target='copa-n-es'/>
+<edge  id='142' source='glass-n-en' target='vidrio-n-es'/>
+<edge  id='143' source='glass-n-en' target='cristal-n-gl'/>
+<edge  id='144' source='glass-n-en' target='vidro-n-gl'/>
+<edge  id='145' source='glass-n-en' target='copa-n-gl'/>
+<edge  id='146' source='glass-n-en' target='vaso-n-gl'/>
+<edge  id='147' source='glass-n-en' target='glaso-n-eo'/>
+<edge  id='148' source='glass-n-en' target='vitro-n-eo'/>
+<edge  id='149' source='glass-n-en' target='baso-n-eu'/>
+<edge  id='150' source='glass-n-en' target='beira-n-eu'/>
+<edge  id='151' source='glass-n-en' target='kristal-n-eu'/>
+<edge  id='152' source='vase-n-en' target='gerro-n-ca'/>
+<edge  id='153' source='vase-n-en' target='pitxer-n-ca'/>
+<edge  id='154' source='vase-n-en' target='búcaro-n-es'/>
+<edge  id='155' source='vase-n-en' target='jarro-n-es'/>
+<edge  id='156' source='vase-n-en' target='jarrón-n-es'/>
+<edge  id='157' source='vase-n-en' target='xerro-n-gl'/>
+<edge  id='158' source='vase-n-en' target='floreiro-n-gl'/>
+<edge  id='159' source='vase-n-en' target='ornamavazo-n-eo'/>
+<edge  id='160' source='vase-n-en' target='vazo-n-eo'/>
+<edge  id='161' source='vase-n-en' target='baso-n-eu'/>
+</edges>
+</graph>

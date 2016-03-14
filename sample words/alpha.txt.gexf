@@ -1,0 +1,28 @@
+<graph defaultedgetype="directed">
+
+<nodes>
+<node id='alfa-n-pt' label='alfa-n-pt'/>
+<node id='alfa-n-gl' label='alfa-n-gl'/>
+<node id='alfa-n-ca' label='alfa-n-ca'/>
+<node id='alpha-n-en' label='alpha-n-en'/>
+<node id='alfa-n-es' label='alfa-n-es'/>
+<node id='alfa-n-ast' label='alfa-n-ast'/>
+</nodes>
+
+<edges>
+<edge  id='1' source='alpha-n-en' target='alfa-n-ca'/>
+<edge  id='2' source='alfa-n-ca' target='alpha-n-en'/>
+<edge  id='3' source='alfa-n-ca' target='alfa-n-es'/>
+<edge  id='4' source='alfa-n-es' target='alpha-n-en'/>
+<edge  id='5' source='alfa-n-es' target='alfa-n-ca'/>
+<edge  id='6' source='alfa-n-es' target='alfa-n-ast'/>
+<edge  id='7' source='alfa-n-es' target='alfa-n-pt'/>
+<edge  id='8' source='alpha-n-en' target='alfa-n-es'/>
+<edge  id='9' source='alfa-n-ast' target='alfa-n-es'/>
+<edge  id='10' source='alfa-n-pt' target='alfa-n-gl'/>
+<edge  id='11' source='alfa-n-pt' target='alfa-n-es'/>
+<edge  id='12' source='alpha-n-en' target='alfa-n-gl'/>
+<edge  id='13' source='alfa-n-gl' target='alfa-n-pt'/>
+<edge  id='14' source='alfa-n-gl' target='alpha-n-en'/>
+</edges>
+</graph>

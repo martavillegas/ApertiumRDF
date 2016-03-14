@@ -1,0 +1,62 @@
+<graph defaultedgetype="directed">
+
+<nodes>
+<node id='academia-n-ast' label='academia-n-ast'/>
+<node id='academie-n-ro' label='academie-n-ro'/>
+<node id='academia-n-gl' label='academia-n-gl'/>
+<node id='académie-n-fr' label='académie-n-fr'/>
+<node id='sociétésavante-n-fr' label='sociétésavante-n-fr'/>
+<node id='academy-n-en' label='academy-n-en'/>
+<node id='academia-n-pt' label='academia-n-pt'/>
+<node id='accademia-n-it' label='accademia-n-it'/>
+<node id='akademio-n-eo' label='akademio-n-eo'/>
+<node id='akademia-n-eu' label='akademia-n-eu'/>
+<node id='academia-n-es' label='academia-n-es'/>
+<node id='academia-n-an' label='academia-n-an'/>
+<node id='academia-n-oc' label='academia-n-oc'/>
+<node id='acadèmia-n-ca' label='acadèmia-n-ca'/>
+</nodes>
+
+<edges>
+<edge  id='1' source='academy-n-en' target='acadèmia-n-ca'/>
+<edge  id='2' source='acadèmia-n-ca' target='accademia-n-it'/>
+<edge  id='3' source='accademia-n-it' target='acadèmia-n-ca'/>
+<edge  id='4' source='acadèmia-n-ca' target='academy-n-en'/>
+<edge  id='5' source='acadèmia-n-ca' target='academia-n-es'/>
+<edge  id='6' source='academia-n-es' target='akademio-n-eo'/>
+<edge  id='7' source='academia-n-es' target='académie-n-fr'/>
+<edge  id='8' source='academia-n-es' target='academy-n-en'/>
+<edge  id='9' source='academia-n-es' target='acadèmia-n-ca'/>
+<edge  id='10' source='academia-n-es' target='akademia-n-eu'/>
+<edge  id='11' source='academia-n-es' target='academie-n-ro'/>
+<edge  id='12' source='academia-n-es' target='academia-n-an'/>
+<edge  id='13' source='academia-n-es' target='academia-n-ast'/>
+<edge  id='14' source='academia-n-es' target='academia-n-oc'/>
+<edge  id='15' source='academia-n-es' target='academia-n-pt'/>
+<edge  id='16' source='acadèmia-n-ca' target='academia-n-oc'/>
+<edge  id='17' source='academia-n-oc' target='acadèmia-n-ca'/>
+<edge  id='18' source='academia-n-oc' target='academia-n-es'/>
+<edge  id='19' source='acadèmia-n-ca' target='académie-n-fr'/>
+<edge  id='20' source='académie-n-fr' target='academia-n-es'/>
+<edge  id='21' source='académie-n-fr' target='acadèmia-n-ca'/>
+<edge  id='22' source='académie-n-fr' target='akademio-n-eo'/>
+<edge  id='23' source='acadèmia-n-ca' target='akademio-n-eo'/>
+<edge  id='24' source='akademio-n-eo' target='academia-n-es'/>
+<edge  id='25' source='akademio-n-eo' target='academy-n-en'/>
+<edge  id='26' source='akademio-n-eo' target='académie-n-fr'/>
+<edge  id='27' source='akademio-n-eo' target='sociétésavante-n-fr'/>
+<edge  id='28' source='akademio-n-eo' target='acadèmia-n-ca'/>
+<edge  id='29' source='academy-n-en' target='academia-n-es'/>
+<edge  id='30' source='akademia-n-eu' target='academia-n-es'/>
+<edge  id='31' source='akademia-n-eu' target='academy-n-en'/>
+<edge  id='32' source='academie-n-ro' target='academia-n-es'/>
+<edge  id='33' source='academia-n-an' target='academia-n-es'/>
+<edge  id='34' source='academia-n-ast' target='academia-n-es'/>
+<edge  id='35' source='academia-n-pt' target='academia-n-es'/>
+<edge  id='36' source='academy-n-en' target='academia-n-gl'/>
+<edge  id='37' source='academia-n-gl' target='academy-n-en'/>
+<edge  id='38' source='academy-n-en' target='akademio-n-eo'/>
+<edge  id='39' source='sociétésavante-n-fr' target='akademio-n-eo'/>
+<edge  id='40' source='academy-n-en' target='akademia-n-eu'/>
+</edges>
+</graph>

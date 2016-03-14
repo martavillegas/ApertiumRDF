@@ -1,0 +1,741 @@
+<graph defaultedgetype="directed">
+
+<nodes>
+<node id='vailet-n-ca' label='vailet-n-ca'/>
+<node id='rapariga-n-gl' label='rapariga-n-gl'/>
+<node id='petitami-n-fr' label='petitami-n-fr'/>
+<node id='moción-n-gl' label='moción-n-gl'/>
+<node id='rapaz-n-pt' label='rapaz-n-pt'/>
+<node id='bambino-n-it' label='bambino-n-it'/>
+<node id='lad-n-en' label='lad-n-en'/>
+<node id='rapacín-n-ast' label='rapacín-n-ast'/>
+<node id='cautivo-n-es' label='cautivo-n-es'/>
+<node id='crío-n-es' label='crío-n-es'/>
+<node id='rapariga-n-pt' label='rapariga-n-pt'/>
+<node id='puto-n-ca' label='puto-n-ca'/>
+<node id='haur-n-eu' label='haur-n-eu'/>
+<node id='infante-n-eu' label='infante-n-eu'/>
+<node id='infante-n-es' label='infante-n-es'/>
+<node id='enfant-n-oc' label='enfant-n-oc'/>
+<node id='filo-n-eo' label='filo-n-eo'/>
+<node id='cativo-n-pt' label='cativo-n-pt'/>
+<node id='portisto-n-eo' label='portisto-n-eo'/>
+<node id='koramikino-n-eo' label='koramikino-n-eo'/>
+<node id='noi-n-ca' label='noi-n-ca'/>
+<node id='críu-n-ast' label='críu-n-ast'/>
+<node id='copil-n-ro' label='copil-n-ro'/>
+<node id='criança-n-pt' label='criança-n-pt'/>
+<node id='ido-n-eo' label='ido-n-eo'/>
+<node id='xiquet-n-ca' label='xiquet-n-ca'/>
+<node id='fiancé-n-fr' label='fiancé-n-fr'/>
+<node id='infante-n-it' label='infante-n-it'/>
+<node id='canalla-n-ca' label='canalla-n-ca'/>
+<node id='gojatòt-n-oc' label='gojatòt-n-oc'/>
+<node id='moço-n-pt' label='moço-n-pt'/>
+<node id='kreatura-n-eu' label='kreatura-n-eu'/>
+<node id='mòsso-n-oc' label='mòsso-n-oc'/>
+<node id='mainat-n-oc' label='mainat-n-oc'/>
+<node id='meniño-n-gl' label='meniño-n-gl'/>
+<node id='infant-n-en' label='infant-n-en'/>
+<node id='subulo-n-eo' label='subulo-n-eo'/>
+<node id='suinfano-n-eo' label='suinfano-n-eo'/>
+<node id='chaval-n-es' label='chaval-n-es'/>
+<node id='enfant-n-fr' label='enfant-n-fr'/>
+<node id='manit-n-oc' label='manit-n-oc'/>
+<node id='hijo-n-es' label='hijo-n-es'/>
+<node id='kapridao-n-eo' label='kapridao-n-eo'/>
+<node id='cambrer-n-ca' label='cambrer-n-ca'/>
+<node id='nin-n-ca' label='nin-n-ca'/>
+<node id='peque-n-es' label='peque-n-es'/>
+<node id='criatura-n-gl' label='criatura-n-gl'/>
+<node id='kanajlo-n-eo' label='kanajlo-n-eo'/>
+<node id='neska-n-eu' label='neska-n-eu'/>
+<node id='varo-n-pt' label='varo-n-pt'/>
+<node id='tnr-n-ro' label='tnr-n-ro'/>
+<node id='chiquillo-n-es' label='chiquillo-n-es'/>
+<node id='princo-n-eo' label='princo-n-eo'/>
+<node id='ume-n-eu' label='ume-n-eu'/>
+<node id='junulo-n-eo' label='junulo-n-eo'/>
+<node id='neskalagun-n-eu' label='neskalagun-n-eu'/>
+<node id='varón-n-gl' label='varón-n-gl'/>
+<node id='karulo-n-eo' label='karulo-n-eo'/>
+<node id='moción-n-es' label='moción-n-es'/>
+<node id='gojat-n-oc' label='gojat-n-oc'/>
+<node id='promès-n-ca' label='promès-n-ca'/>
+<node id='nini-n-eu' label='nini-n-eu'/>
+<node id='infante-n-pt' label='infante-n-pt'/>
+<node id='puto-n-es' label='puto-n-es'/>
+<node id='guaje-n-es' label='guaje-n-es'/>
+<node id='nen-n-ca' label='nen-n-ca'/>
+<node id='dròlle-n-oc' label='dròlle-n-oc'/>
+<node id='mosso-n-oc' label='mosso-n-oc'/>
+<node id='infaneto-n-eo' label='infaneto-n-eo'/>
+<node id='kelnero-n-eo' label='kelnero-n-eo'/>
+<node id='camarero-n-es' label='camarero-n-es'/>
+<node id='prunc-n-ro' label='prunc-n-ro'/>
+<node id='xicot-n-ca' label='xicot-n-ca'/>
+<node id='neno-n-gl' label='neno-n-gl'/>
+<node id='etulo-n-eo' label='etulo-n-eo'/>
+<node id='junulino-n-eo' label='junulino-n-eo'/>
+<node id='junaulo-n-eo' label='junaulo-n-eo'/>
+<node id='mutillagun-n-eu' label='mutillagun-n-eu'/>
+<node id='junior-n-en' label='junior-n-en'/>
+<node id='cativo-n-gl' label='cativo-n-gl'/>
+<node id='amoureux-n-fr' label='amoureux-n-fr'/>
+<node id='muchacho-n-es' label='muchacho-n-es'/>
+<node id='mutil-n-eu' label='mutil-n-eu'/>
+<node id='créature-n-fr' label='créature-n-fr'/>
+<node id='fillo-n-gl' label='fillo-n-gl'/>
+<node id='ezkongai-n-eu' label='ezkongai-n-eu'/>
+<node id='homme-n-fr' label='homme-n-fr'/>
+<node id='neskato-n-eu' label='neskato-n-eu'/>
+<node id='allot-n-ca' label='allot-n-ca'/>
+<node id='fralino-n-eo' label='fralino-n-eo'/>
+<node id='infant-n-ca' label='infant-n-ca'/>
+<node id='bébé-n-fr' label='bébé-n-fr'/>
+<node id='bebé-n-es' label='bebé-n-es'/>
+<node id='bieel-n-ro' label='bieel-n-ro'/>
+<node id='puti-n-ro' label='puti-n-ro'/>
+<node id='infanjo-n-eo' label='infanjo-n-eo'/>
+<node id='captiu-n-ca' label='captiu-n-ca'/>
+<node id='jove-n-ca' label='jove-n-ca'/>
+<node id='mainada-n-oc' label='mainada-n-oc'/>
+<node id='fecior-n-ro' label='fecior-n-ro'/>
+<node id='home-n-ast' label='home-n-ast'/>
+<node id='xaval-n-ca' label='xaval-n-ca'/>
+<node id='fille-n-fr' label='fille-n-fr'/>
+<node id='chico-n-gl' label='chico-n-gl'/>
+<node id='jeunefille-n-fr' label='jeunefille-n-fr'/>
+<node id='bubo-n-eo' label='bubo-n-eo'/>
+<node id='varón-n-ast' label='varón-n-ast'/>
+<node id='varón-n-es' label='varón-n-es'/>
+<node id='ragazzo-n-it' label='ragazzo-n-it'/>
+<node id='jeunehomme-n-fr' label='jeunehomme-n-fr'/>
+<node id='rapaz-n-ast' label='rapaz-n-ast'/>
+<node id='forkaptito-n-eo' label='forkaptito-n-eo'/>
+<node id='tipo-n-es' label='tipo-n-es'/>
+<node id='captive-n-en' label='captive-n-en'/>
+<node id='pibe-n-es' label='pibe-n-es'/>
+<node id='child-n-en' label='child-n-en'/>
+<node id='joven-n-es' label='joven-n-es'/>
+<node id='pícaro-n-gl' label='pícaro-n-gl'/>
+<node id='bebè-n-ca' label='bebè-n-ca'/>
+<node id='jovem-n-pt' label='jovem-n-pt'/>
+<node id='creatura-n-oc' label='creatura-n-oc'/>
+<node id='mutiko-n-eu' label='mutiko-n-eu'/>
+<node id='òme-n-oc' label='òme-n-oc'/>
+<node id='malaltrangulo-n-eo' label='malaltrangulo-n-eo'/>
+<node id='koramiko-n-eo' label='koramiko-n-eo'/>
+<node id='knabo-n-eo' label='knabo-n-eo'/>
+<node id='gazte-n-eu' label='gazte-n-eu'/>
+<node id='boy-n-en' label='boy-n-en'/>
+<node id='criatura-n-ca' label='criatura-n-ca'/>
+<node id='prometido-n-es' label='prometido-n-es'/>
+<node id='garçon-n-fr' label='garçon-n-fr'/>
+<node id='semealaba-n-eu' label='semealaba-n-eu'/>
+<node id='girlfriend-n-en' label='girlfriend-n-en'/>
+<node id='nuvi-n-ca' label='nuvi-n-ca'/>
+<node id='rapaz-n-gl' label='rapaz-n-gl'/>
+<node id='xic-n-ca' label='xic-n-ca'/>
+<node id='guy-n-en' label='guy-n-en'/>
+<node id='jeune-n-fr' label='jeune-n-fr'/>
+<node id='kid-n-en' label='kid-n-en'/>
+<node id='bebé-n-gl' label='bebé-n-gl'/>
+<node id='mozo-n-gl' label='mozo-n-gl'/>
+<node id='fils-n-fr' label='fils-n-fr'/>
+<node id='niño-n-es' label='niño-n-es'/>
+<node id='mainatge-n-oc' label='mainatge-n-oc'/>
+<node id='guahe-n-ast' label='guahe-n-ast'/>
+<node id='garoto-n-pt' label='garoto-n-pt'/>
+<node id='infano-n-eo' label='infano-n-eo'/>
+<node id='filjo-n-eo' label='filjo-n-eo'/>
+<node id='mendeko-n-eu' label='mendeko-n-eu'/>
+<node id='raparigo-n-gl' label='raparigo-n-gl'/>
+<node id='chico-n-es' label='chico-n-es'/>
+<node id='baby-n-en' label='baby-n-en'/>
+<node id='home-n-ca' label='home-n-ca'/>
+<node id='novio-n-es' label='novio-n-es'/>
+<node id='nino-n-an' label='nino-n-an'/>
+<node id='muchachito-n-es' label='muchachito-n-es'/>
+<node id='puto-n-pt' label='puto-n-pt'/>
+<node id='boyfriend-n-en' label='boyfriend-n-en'/>
+<node id='biat-n-ro' label='biat-n-ro'/>
+<node id='fiano-n-eo' label='fiano-n-eo'/>
+<node id='hija-n-es' label='hija-n-es'/>
+<node id='minyó-n-ca' label='minyó-n-ca'/>
+<node id='rapazu-n-ast' label='rapazu-n-ast'/>
+<node id='infante-n-gl' label='infante-n-gl'/>
+<node id='fill-n-ca' label='fill-n-ca'/>
+<node id='youngster-n-en' label='youngster-n-en'/>
+<node id='ulo-n-eo' label='ulo-n-eo'/>
+<node id='gaillard-n-fr' label='gaillard-n-fr'/>
+<node id='umetxo-n-eu' label='umetxo-n-eu'/>
+<node id='kaprido-n-eo' label='kaprido-n-eo'/>
+<node id='karulino-n-eo' label='karulino-n-eo'/>
+<node id='lulinfano-n-eo' label='lulinfano-n-eo'/>
+<node id='menino-n-pt' label='menino-n-pt'/>
+<node id='matre-n-fr' label='matre-n-fr'/>
+<node id='bebo-n-eo' label='bebo-n-eo'/>
+<node id='mosso-n-ca' label='mosso-n-ca'/>
+<node id='gars-n-fr' label='gars-n-fr'/>
+<node id='viro-n-eo' label='viro-n-eo'/>
+<node id='noia-n-ca' label='noia-n-ca'/>
+<node id='chaval-n-ast' label='chaval-n-ast'/>
+<node id='nenosenenas-n-gl' label='nenosenenas-n-gl'/>
+<node id='joen-n-oc' label='joen-n-oc'/>
+<node id='nene-n-es' label='nene-n-es'/>
+<node id='girl-n-en' label='girl-n-en'/>
+<node id='mozo-n-es' label='mozo-n-es'/>
+<node id='marrec-n-ca' label='marrec-n-ca'/>
+<node id='rapaz-n-es' label='rapaz-n-es'/>
+<node id='criatura-n-es' label='criatura-n-es'/>
+<node id='jove-n-oc' label='jove-n-oc'/>
+<node id='moció-n-ca' label='moció-n-ca'/>
+<node id='neskatila-n-eu' label='neskatila-n-eu'/>
+<node id='neñu-n-ast' label='neñu-n-ast'/>
+<node id='mozu-n-ast' label='mozu-n-ast'/>
+<node id='infant-n-oc' label='infant-n-oc'/>
+</nodes>
+
+<edges>
+<edge  id='1' source='boy-n-en' target='nen-n-ca'/>
+<edge  id='2' source='nen-n-ca' target='criança-n-pt'/>
+<edge  id='3' source='criança-n-pt' target='nen-n-ca'/>
+<edge  id='4' source='criança-n-pt' target='neno-n-gl'/>
+<edge  id='5' source='criança-n-pt' target='nenosenenas-n-gl'/>
+<edge  id='6' source='criança-n-pt' target='rapaz-n-gl'/>
+<edge  id='7' source='criança-n-pt' target='cativo-n-gl'/>
+<edge  id='8' source='criança-n-pt' target='crío-n-es'/>
+<edge  id='9' source='criança-n-pt' target='niño-n-es'/>
+<edge  id='10' source='nen-n-ca' target='menino-n-pt'/>
+<edge  id='11' source='menino-n-pt' target='canalla-n-ca'/>
+<edge  id='12' source='menino-n-pt' target='infant-n-ca'/>
+<edge  id='13' source='menino-n-pt' target='xiquet-n-ca'/>
+<edge  id='14' source='menino-n-pt' target='nen-n-ca'/>
+<edge  id='15' source='menino-n-pt' target='xaval-n-ca'/>
+<edge  id='16' source='menino-n-pt' target='cativo-n-gl'/>
+<edge  id='17' source='menino-n-pt' target='meniño-n-gl'/>
+<edge  id='18' source='menino-n-pt' target='niño-n-es'/>
+<edge  id='19' source='menino-n-pt' target='chaval-n-es'/>
+<edge  id='20' source='nen-n-ca' target='bambino-n-it'/>
+<edge  id='21' source='bambino-n-it' target='xiquet-n-ca'/>
+<edge  id='22' source='bambino-n-it' target='nen-n-ca'/>
+<edge  id='23' source='child-n-en' target='infant-n-ca'/>
+<edge  id='24' source='child-n-en' target='fill-n-ca'/>
+<edge  id='25' source='child-n-en' target='nen-n-ca'/>
+<edge  id='26' source='child-n-en' target='xiquet-n-ca'/>
+<edge  id='27' source='child-n-en' target='crío-n-es'/>
+<edge  id='28' source='child-n-en' target='hijo-n-es'/>
+<edge  id='29' source='child-n-en' target='infante-n-es'/>
+<edge  id='30' source='child-n-en' target='niño-n-es'/>
+<edge  id='31' source='child-n-en' target='infante-n-gl'/>
+<edge  id='32' source='child-n-en' target='neno-n-gl'/>
+<edge  id='33' source='child-n-en' target='fillo-n-gl'/>
+<edge  id='34' source='child-n-en' target='infano-n-eo'/>
+<edge  id='35' source='child-n-en' target='ido-n-eo'/>
+<edge  id='36' source='child-n-en' target='ume-n-eu'/>
+<edge  id='37' source='child-n-en' target='infante-n-eu'/>
+<edge  id='38' source='child-n-en' target='semealaba-n-eu'/>
+<edge  id='39' source='child-n-en' target='haur-n-eu'/>
+<edge  id='40' source='child-n-en' target='nini-n-eu'/>
+<edge  id='41' source='child-n-en' target='umetxo-n-eu'/>
+<edge  id='42' source='girl-n-en' target='noi-n-ca'/>
+<edge  id='43' source='girl-n-en' target='nen-n-ca'/>
+<edge  id='44' source='girl-n-en' target='xic-n-ca'/>
+<edge  id='45' source='girl-n-en' target='xicot-n-ca'/>
+<edge  id='46' source='girl-n-en' target='chiquillo-n-es'/>
+<edge  id='47' source='girl-n-en' target='chico-n-es'/>
+<edge  id='48' source='girl-n-en' target='niño-n-es'/>
+<edge  id='49' source='girl-n-en' target='nene-n-es'/>
+<edge  id='50' source='girl-n-en' target='muchacho-n-es'/>
+<edge  id='51' source='girl-n-en' target='chico-n-gl'/>
+<edge  id='52' source='girl-n-en' target='raparigo-n-gl'/>
+<edge  id='53' source='girl-n-en' target='mozo-n-gl'/>
+<edge  id='54' source='girl-n-en' target='meniño-n-gl'/>
+<edge  id='55' source='girl-n-en' target='neno-n-gl'/>
+<edge  id='56' source='girl-n-en' target='pícaro-n-gl'/>
+<edge  id='57' source='girl-n-en' target='cativo-n-gl'/>
+<edge  id='58' source='girl-n-en' target='knabo-n-eo'/>
+<edge  id='59' source='girl-n-en' target='fralino-n-eo'/>
+<edge  id='60' source='girl-n-en' target='junulino-n-eo'/>
+<edge  id='61' source='girl-n-en' target='haur-n-eu'/>
+<edge  id='62' source='girl-n-en' target='neska-n-eu'/>
+<edge  id='63' source='girl-n-en' target='neskato-n-eu'/>
+<edge  id='64' source='girl-n-en' target='neskatila-n-eu'/>
+<edge  id='65' source='nen-n-ca' target='boy-n-en'/>
+<edge  id='66' source='kid-n-en' target='nen-n-ca'/>
+<edge  id='67' source='kid-n-en' target='xiquet-n-ca'/>
+<edge  id='68' source='kid-n-en' target='niño-n-es'/>
+<edge  id='69' source='kid-n-en' target='neno-n-gl'/>
+<edge  id='70' source='kid-n-en' target='infanjo-n-eo'/>
+<edge  id='71' source='kid-n-en' target='etulo-n-eo'/>
+<edge  id='72' source='kid-n-en' target='kaprido-n-eo'/>
+<edge  id='73' source='kid-n-en' target='kapridao-n-eo'/>
+<edge  id='74' source='kid-n-en' target='infano-n-eo'/>
+<edge  id='75' source='kid-n-en' target='haur-n-eu'/>
+<edge  id='76' source='kid-n-en' target='ume-n-eu'/>
+<edge  id='77' source='nen-n-ca' target='nene-n-es'/>
+<edge  id='78' source='nene-n-es' target='bebo-n-eo'/>
+<edge  id='79' source='nene-n-es' target='enfant-n-fr'/>
+<edge  id='80' source='nene-n-es' target='boy-n-en'/>
+<edge  id='81' source='nene-n-es' target='nen-n-ca'/>
+<edge  id='82' source='nene-n-es' target='xiquet-n-ca'/>
+<edge  id='83' source='nene-n-es' target='nini-n-eu'/>
+<edge  id='84' source='nene-n-es' target='mainada-n-oc'/>
+<edge  id='85' source='nene-n-es' target='mainat-n-oc'/>
+<edge  id='86' source='nene-n-es' target='mainatge-n-oc'/>
+<edge  id='87' source='nen-n-ca' target='niño-n-es'/>
+<edge  id='88' source='niño-n-es' target='knabo-n-eo'/>
+<edge  id='89' source='niño-n-es' target='infano-n-eo'/>
+<edge  id='90' source='niño-n-es' target='enfant-n-fr'/>
+<edge  id='91' source='niño-n-es' target='boy-n-en'/>
+<edge  id='92' source='niño-n-es' target='canalla-n-ca'/>
+<edge  id='93' source='niño-n-es' target='infant-n-ca'/>
+<edge  id='94' source='niño-n-es' target='nen-n-ca'/>
+<edge  id='95' source='niño-n-es' target='xiquet-n-ca'/>
+<edge  id='96' source='niño-n-es' target='ume-n-eu'/>
+<edge  id='97' source='niño-n-es' target='neskato-n-eu'/>
+<edge  id='98' source='niño-n-es' target='haur-n-eu'/>
+<edge  id='99' source='niño-n-es' target='copil-n-ro'/>
+<edge  id='100' source='niño-n-es' target='prunc-n-ro'/>
+<edge  id='101' source='niño-n-es' target='nino-n-an'/>
+<edge  id='102' source='niño-n-es' target='neñu-n-ast'/>
+<edge  id='103' source='niño-n-es' target='meniño-n-gl'/>
+<edge  id='104' source='niño-n-es' target='neno-n-gl'/>
+<edge  id='105' source='niño-n-es' target='pícaro-n-gl'/>
+<edge  id='106' source='niño-n-es' target='enfant-n-oc'/>
+<edge  id='107' source='niño-n-es' target='infant-n-oc'/>
+<edge  id='108' source='niño-n-es' target='mainatge-n-oc'/>
+<edge  id='109' source='niño-n-es' target='mainada-n-oc'/>
+<edge  id='110' source='niño-n-es' target='mainat-n-oc'/>
+<edge  id='111' source='niño-n-es' target='menino-n-pt'/>
+<edge  id='112' source='niño-n-es' target='criança-n-pt'/>
+<edge  id='113' source='nen-n-ca' target='peque-n-es'/>
+<edge  id='114' source='peque-n-es' target='nen-n-ca'/>
+<edge  id='115' source='peque-n-es' target='xiquet-n-ca'/>
+<edge  id='116' source='nen-n-ca' target='mainat-n-oc'/>
+<edge  id='117' source='mainat-n-oc' target='nen-n-ca'/>
+<edge  id='118' source='mainat-n-oc' target='xiquet-n-ca'/>
+<edge  id='119' source='mainat-n-oc' target='nene-n-es'/>
+<edge  id='120' source='mainat-n-oc' target='niño-n-es'/>
+<edge  id='121' source='nen-n-ca' target='mainatge-n-oc'/>
+<edge  id='122' source='mainatge-n-oc' target='nen-n-ca'/>
+<edge  id='123' source='mainatge-n-oc' target='xiquet-n-ca'/>
+<edge  id='124' source='mainatge-n-oc' target='infant-n-ca'/>
+<edge  id='125' source='mainatge-n-oc' target='infante-n-es'/>
+<edge  id='126' source='mainatge-n-oc' target='nene-n-es'/>
+<edge  id='127' source='mainatge-n-oc' target='niño-n-es'/>
+<edge  id='128' source='nen-n-ca' target='mainada-n-oc'/>
+<edge  id='129' source='mainada-n-oc' target='xiquet-n-ca'/>
+<edge  id='130' source='mainada-n-oc' target='nen-n-ca'/>
+<edge  id='131' source='mainada-n-oc' target='nene-n-es'/>
+<edge  id='132' source='mainada-n-oc' target='niño-n-es'/>
+<edge  id='133' source='nen-n-ca' target='enfant-n-fr'/>
+<edge  id='134' source='enfant-n-fr' target='nene-n-es'/>
+<edge  id='135' source='enfant-n-fr' target='niño-n-es'/>
+<edge  id='136' source='enfant-n-fr' target='nen-n-ca'/>
+<edge  id='137' source='enfant-n-fr' target='knabo-n-eo'/>
+<edge  id='138' source='enfant-n-fr' target='infano-n-eo'/>
+<edge  id='139' source='nen-n-ca' target='knabo-n-eo'/>
+<edge  id='140' source='knabo-n-eo' target='chico-n-es'/>
+<edge  id='141' source='knabo-n-eo' target='muchacho-n-es'/>
+<edge  id='142' source='knabo-n-eo' target='pibe-n-es'/>
+<edge  id='143' source='knabo-n-eo' target='chaval-n-es'/>
+<edge  id='144' source='knabo-n-eo' target='niño-n-es'/>
+<edge  id='145' source='knabo-n-eo' target='boy-n-en'/>
+<edge  id='146' source='knabo-n-eo' target='garçon-n-fr'/>
+<edge  id='147' source='knabo-n-eo' target='enfant-n-fr'/>
+<edge  id='148' source='knabo-n-eo' target='fils-n-fr'/>
+<edge  id='149' source='knabo-n-eo' target='gaillard-n-fr'/>
+<edge  id='150' source='knabo-n-eo' target='gars-n-fr'/>
+<edge  id='151' source='knabo-n-eo' target='nen-n-ca'/>
+<edge  id='152' source='knabo-n-eo' target='allot-n-ca'/>
+<edge  id='153' source='knabo-n-eo' target='xic-n-ca'/>
+<edge  id='154' source='knabo-n-eo' target='nin-n-ca'/>
+<edge  id='155' source='knabo-n-eo' target='noi-n-ca'/>
+<edge  id='156' source='knabo-n-eo' target='xicot-n-ca'/>
+<edge  id='157' source='knabo-n-eo' target='xiquet-n-ca'/>
+<edge  id='158' source='boy-n-en' target='noi-n-ca'/>
+<edge  id='159' source='noi-n-ca' target='moço-n-pt'/>
+<edge  id='160' source='moço-n-pt' target='moció-n-ca'/>
+<edge  id='161' source='moço-n-pt' target='noi-n-ca'/>
+<edge  id='162' source='moço-n-pt' target='moción-n-gl'/>
+<edge  id='163' source='moço-n-pt' target='moción-n-es'/>
+<edge  id='164' source='noi-n-ca' target='garoto-n-pt'/>
+<edge  id='165' source='garoto-n-pt' target='noi-n-ca'/>
+<edge  id='166' source='garoto-n-pt' target='xic-n-ca'/>
+<edge  id='167' source='garoto-n-pt' target='neno-n-gl'/>
+<edge  id='168' source='garoto-n-pt' target='chico-n-es'/>
+<edge  id='169' source='noi-n-ca' target='rapaz-n-pt'/>
+<edge  id='170' source='rapaz-n-pt' target='noi-n-ca'/>
+<edge  id='171' source='rapaz-n-pt' target='allot-n-ca'/>
+<edge  id='172' source='rapaz-n-pt' target='raparigo-n-gl'/>
+<edge  id='173' source='rapaz-n-pt' target='chico-n-gl'/>
+<edge  id='174' source='rapaz-n-pt' target='rapaz-n-gl'/>
+<edge  id='175' source='rapaz-n-pt' target='muchacho-n-es'/>
+<edge  id='176' source='noi-n-ca' target='rapariga-n-pt'/>
+<edge  id='177' source='rapariga-n-pt' target='allot-n-ca'/>
+<edge  id='178' source='rapariga-n-pt' target='noi-n-ca'/>
+<edge  id='179' source='rapariga-n-pt' target='rapariga-n-gl'/>
+<edge  id='180' source='rapariga-n-pt' target='muchacho-n-es'/>
+<edge  id='181' source='noi-n-ca' target='ragazzo-n-it'/>
+<edge  id='182' source='ragazzo-n-it' target='noi-n-ca'/>
+<edge  id='183' source='ragazzo-n-it' target='xic-n-ca'/>
+<edge  id='184' source='lad-n-en' target='noi-n-ca'/>
+<edge  id='185' source='lad-n-en' target='xic-n-ca'/>
+<edge  id='186' source='lad-n-en' target='chico-n-es'/>
+<edge  id='187' source='lad-n-en' target='mozo-n-gl'/>
+<edge  id='188' source='lad-n-en' target='chico-n-gl'/>
+<edge  id='189' source='lad-n-en' target='knabo-n-eo'/>
+<edge  id='190' source='lad-n-en' target='filjo-n-eo'/>
+<edge  id='191' source='lad-n-en' target='mutil-n-eu'/>
+<edge  id='192' source='noi-n-ca' target='boy-n-en'/>
+<edge  id='193' source='noi-n-ca' target='chico-n-es'/>
+<edge  id='194' source='chico-n-es' target='infano-n-eo'/>
+<edge  id='195' source='chico-n-es' target='knabo-n-eo'/>
+<edge  id='196' source='chico-n-es' target='fille-n-fr'/>
+<edge  id='197' source='chico-n-es' target='garçon-n-fr'/>
+<edge  id='198' source='chico-n-es' target='boy-n-en'/>
+<edge  id='199' source='chico-n-es' target='noi-n-ca'/>
+<edge  id='200' source='chico-n-es' target='xic-n-ca'/>
+<edge  id='201' source='chico-n-es' target='neska-n-eu'/>
+<edge  id='202' source='chico-n-es' target='neskatila-n-eu'/>
+<edge  id='203' source='chico-n-es' target='mutil-n-eu'/>
+<edge  id='204' source='chico-n-es' target='biat-n-ro'/>
+<edge  id='205' source='chico-n-es' target='mozu-n-ast'/>
+<edge  id='206' source='chico-n-es' target='mozo-n-gl'/>
+<edge  id='207' source='chico-n-es' target='gojat-n-oc'/>
+<edge  id='208' source='chico-n-es' target='dròlle-n-oc'/>
+<edge  id='209' source='chico-n-es' target='garoto-n-pt'/>
+<edge  id='210' source='noi-n-ca' target='chiquillo-n-es'/>
+<edge  id='211' source='chiquillo-n-es' target='garçon-n-fr'/>
+<edge  id='212' source='chiquillo-n-es' target='fille-n-fr'/>
+<edge  id='213' source='chiquillo-n-es' target='boy-n-en'/>
+<edge  id='214' source='chiquillo-n-es' target='marrec-n-ca'/>
+<edge  id='215' source='chiquillo-n-es' target='noi-n-ca'/>
+<edge  id='216' source='chiquillo-n-es' target='xiquet-n-ca'/>
+<edge  id='217' source='chiquillo-n-es' target='mutiko-n-eu'/>
+<edge  id='218' source='chiquillo-n-es' target='bieel-n-ro'/>
+<edge  id='219' source='chiquillo-n-es' target='rapacín-n-ast'/>
+<edge  id='220' source='chiquillo-n-es' target='guahe-n-ast'/>
+<edge  id='221' source='chiquillo-n-es' target='raparigo-n-gl'/>
+<edge  id='222' source='chiquillo-n-es' target='gojat-n-oc'/>
+<edge  id='223' source='noi-n-ca' target='muchacho-n-es'/>
+<edge  id='224' source='muchacho-n-es' target='infano-n-eo'/>
+<edge  id='225' source='muchacho-n-es' target='knabo-n-eo'/>
+<edge  id='226' source='muchacho-n-es' target='fille-n-fr'/>
+<edge  id='227' source='muchacho-n-es' target='garçon-n-fr'/>
+<edge  id='228' source='muchacho-n-es' target='boy-n-en'/>
+<edge  id='229' source='muchacho-n-es' target='allot-n-ca'/>
+<edge  id='230' source='muchacho-n-es' target='minyó-n-ca'/>
+<edge  id='231' source='muchacho-n-es' target='noi-n-ca'/>
+<edge  id='232' source='muchacho-n-es' target='xic-n-ca'/>
+<edge  id='233' source='muchacho-n-es' target='mutil-n-eu'/>
+<edge  id='234' source='muchacho-n-es' target='rapazu-n-ast'/>
+<edge  id='235' source='muchacho-n-es' target='rapaz-n-ast'/>
+<edge  id='236' source='muchacho-n-es' target='raparigo-n-gl'/>
+<edge  id='237' source='muchacho-n-es' target='gojat-n-oc'/>
+<edge  id='238' source='muchacho-n-es' target='rapaz-n-pt'/>
+<edge  id='239' source='muchacho-n-es' target='rapariga-n-pt'/>
+<edge  id='240' source='noi-n-ca' target='gojat-n-oc'/>
+<edge  id='241' source='gojat-n-oc' target='noi-n-ca'/>
+<edge  id='242' source='gojat-n-oc' target='minyó-n-ca'/>
+<edge  id='243' source='gojat-n-oc' target='xic-n-ca'/>
+<edge  id='244' source='gojat-n-oc' target='xicot-n-ca'/>
+<edge  id='245' source='gojat-n-oc' target='chiquillo-n-es'/>
+<edge  id='246' source='gojat-n-oc' target='muchacho-n-es'/>
+<edge  id='247' source='gojat-n-oc' target='chico-n-es'/>
+<edge  id='248' source='noi-n-ca' target='dròlle-n-oc'/>
+<edge  id='249' source='dròlle-n-oc' target='noi-n-ca'/>
+<edge  id='250' source='dròlle-n-oc' target='chico-n-es'/>
+<edge  id='251' source='noi-n-ca' target='garçon-n-fr'/>
+<edge  id='252' source='garçon-n-fr' target='chiquillo-n-es'/>
+<edge  id='253' source='garçon-n-fr' target='camarero-n-es'/>
+<edge  id='254' source='garçon-n-fr' target='muchacho-n-es'/>
+<edge  id='255' source='garçon-n-fr' target='chico-n-es'/>
+<edge  id='256' source='garçon-n-fr' target='noi-n-ca'/>
+<edge  id='257' source='garçon-n-fr' target='cambrer-n-ca'/>
+<edge  id='258' source='garçon-n-fr' target='kelnero-n-eo'/>
+<edge  id='259' source='garçon-n-fr' target='knabo-n-eo'/>
+<edge  id='260' source='noi-n-ca' target='knabo-n-eo'/>
+<edge  id='261' source='boy-n-en' target='xic-n-ca'/>
+<edge  id='262' source='xic-n-ca' target='garoto-n-pt'/>
+<edge  id='263' source='xic-n-ca' target='ragazzo-n-it'/>
+<edge  id='264' source='xic-n-ca' target='boy-n-en'/>
+<edge  id='265' source='xic-n-ca' target='chico-n-es'/>
+<edge  id='266' source='xic-n-ca' target='muchacho-n-es'/>
+<edge  id='267' source='xic-n-ca' target='gojat-n-oc'/>
+<edge  id='268' source='xic-n-ca' target='knabo-n-eo'/>
+<edge  id='269' source='boy-n-en' target='xicot-n-ca'/>
+<edge  id='270' source='boyfriend-n-en' target='xicot-n-ca'/>
+<edge  id='271' source='boyfriend-n-en' target='novio-n-es'/>
+<edge  id='272' source='boyfriend-n-en' target='mozo-n-gl'/>
+<edge  id='273' source='boyfriend-n-en' target='koramiko-n-eo'/>
+<edge  id='274' source='boyfriend-n-en' target='mutillagun-n-eu'/>
+<edge  id='275' source='girlfriend-n-en' target='xicot-n-ca'/>
+<edge  id='276' source='girlfriend-n-en' target='novio-n-es'/>
+<edge  id='277' source='girlfriend-n-en' target='mozo-n-gl'/>
+<edge  id='278' source='girlfriend-n-en' target='koramikino-n-eo'/>
+<edge  id='279' source='girlfriend-n-en' target='neskalagun-n-eu'/>
+<edge  id='280' source='xicot-n-ca' target='boy-n-en'/>
+<edge  id='281' source='guy-n-en' target='xicot-n-ca'/>
+<edge  id='282' source='guy-n-en' target='tipo-n-es'/>
+<edge  id='283' source='guy-n-en' target='ulo-n-eo'/>
+<edge  id='284' source='xicot-n-ca' target='gojat-n-oc'/>
+<edge  id='285' source='xicot-n-ca' target='koramiko-n-eo'/>
+<edge  id='286' source='koramiko-n-eo' target='amoureux-n-fr'/>
+<edge  id='287' source='koramiko-n-eo' target='matre-n-fr'/>
+<edge  id='288' source='koramiko-n-eo' target='petitami-n-fr'/>
+<edge  id='289' source='koramiko-n-eo' target='xicot-n-ca'/>
+<edge  id='290' source='xicot-n-ca' target='knabo-n-eo'/>
+<edge  id='291' source='xicot-n-ca' target='fiano-n-eo'/>
+<edge  id='292' source='fiano-n-eo' target='novio-n-es'/>
+<edge  id='293' source='fiano-n-eo' target='prometido-n-es'/>
+<edge  id='294' source='fiano-n-eo' target='fiancé-n-fr'/>
+<edge  id='295' source='fiano-n-eo' target='promès-n-ca'/>
+<edge  id='296' source='fiano-n-eo' target='xicot-n-ca'/>
+<edge  id='297' source='fiano-n-eo' target='nuvi-n-ca'/>
+<edge  id='298' source='boy-n-en' target='chico-n-es'/>
+<edge  id='299' source='infano-n-eo' target='criatura-n-es'/>
+<edge  id='300' source='infano-n-eo' target='niño-n-es'/>
+<edge  id='301' source='infano-n-eo' target='pibe-n-es'/>
+<edge  id='302' source='infano-n-eo' target='chaval-n-es'/>
+<edge  id='303' source='infano-n-eo' target='chico-n-es'/>
+<edge  id='304' source='infano-n-eo' target='muchacho-n-es'/>
+<edge  id='305' source='infano-n-eo' target='enfant-n-fr'/>
+<edge  id='306' source='infano-n-eo' target='infant-n-ca'/>
+<edge  id='307' source='infano-n-eo' target='criatura-n-ca'/>
+<edge  id='308' source='fille-n-fr' target='chiquillo-n-es'/>
+<edge  id='309' source='fille-n-fr' target='muchacho-n-es'/>
+<edge  id='310' source='fille-n-fr' target='chico-n-es'/>
+<edge  id='311' source='fille-n-fr' target='hija-n-es'/>
+<edge  id='312' source='fille-n-fr' target='noia-n-ca'/>
+<edge  id='313' source='fille-n-fr' target='filo-n-eo'/>
+<edge  id='314' source='neska-n-eu' target='chico-n-es'/>
+<edge  id='315' source='neskatila-n-eu' target='chico-n-es'/>
+<edge  id='316' source='mutil-n-eu' target='chico-n-es'/>
+<edge  id='317' source='mutil-n-eu' target='muchacho-n-es'/>
+<edge  id='318' source='mutil-n-eu' target='chaval-n-es'/>
+<edge  id='319' source='mutil-n-eu' target='varón-n-es'/>
+<edge  id='320' source='mutil-n-eu' target='boy-n-en'/>
+<edge  id='321' source='biat-n-ro' target='chico-n-es'/>
+<edge  id='322' source='mozu-n-ast' target='chico-n-es'/>
+<edge  id='323' source='mozu-n-ast' target='joven-n-es'/>
+<edge  id='324' source='mozu-n-ast' target='novio-n-es'/>
+<edge  id='325' source='mozu-n-ast' target='mozo-n-es'/>
+<edge  id='326' source='mozo-n-gl' target='jovem-n-pt'/>
+<edge  id='327' source='mozo-n-gl' target='boy-n-en'/>
+<edge  id='328' source='mozo-n-gl' target='chico-n-es'/>
+<edge  id='329' source='mozo-n-gl' target='mozo-n-es'/>
+<edge  id='330' source='mozo-n-gl' target='joven-n-es'/>
+<edge  id='331' source='boy-n-en' target='chiquillo-n-es'/>
+<edge  id='332' source='marrec-n-ca' target='chiquillo-n-es'/>
+<edge  id='333' source='marrec-n-ca' target='bubo-n-eo'/>
+<edge  id='334' source='xiquet-n-ca' target='menino-n-pt'/>
+<edge  id='335' source='xiquet-n-ca' target='bambino-n-it'/>
+<edge  id='336' source='xiquet-n-ca' target='niño-n-es'/>
+<edge  id='337' source='xiquet-n-ca' target='chiquillo-n-es'/>
+<edge  id='338' source='xiquet-n-ca' target='nene-n-es'/>
+<edge  id='339' source='xiquet-n-ca' target='peque-n-es'/>
+<edge  id='340' source='xiquet-n-ca' target='mainatge-n-oc'/>
+<edge  id='341' source='xiquet-n-ca' target='mainada-n-oc'/>
+<edge  id='342' source='xiquet-n-ca' target='mainat-n-oc'/>
+<edge  id='343' source='xiquet-n-ca' target='knabo-n-eo'/>
+<edge  id='344' source='mutiko-n-eu' target='chiquillo-n-es'/>
+<edge  id='345' source='mutiko-n-eu' target='boy-n-en'/>
+<edge  id='346' source='bieel-n-ro' target='chiquillo-n-es'/>
+<edge  id='347' source='rapacín-n-ast' target='chiquillo-n-es'/>
+<edge  id='348' source='rapacín-n-ast' target='muchachito-n-es'/>
+<edge  id='349' source='guahe-n-ast' target='crío-n-es'/>
+<edge  id='350' source='guahe-n-ast' target='chiquillo-n-es'/>
+<edge  id='351' source='guahe-n-ast' target='guaje-n-es'/>
+<edge  id='352' source='raparigo-n-gl' target='rapaz-n-pt'/>
+<edge  id='353' source='raparigo-n-gl' target='boy-n-en'/>
+<edge  id='354' source='raparigo-n-gl' target='muchacho-n-es'/>
+<edge  id='355' source='raparigo-n-gl' target='chiquillo-n-es'/>
+<edge  id='356' source='boy-n-en' target='muchacho-n-es'/>
+<edge  id='357' source='allot-n-ca' target='rapaz-n-pt'/>
+<edge  id='358' source='allot-n-ca' target='rapariga-n-pt'/>
+<edge  id='359' source='allot-n-ca' target='muchacho-n-es'/>
+<edge  id='360' source='allot-n-ca' target='knabo-n-eo'/>
+<edge  id='361' source='minyó-n-ca' target='muchacho-n-es'/>
+<edge  id='362' source='minyó-n-ca' target='gojat-n-oc'/>
+<edge  id='363' source='rapazu-n-ast' target='muchacho-n-es'/>
+<edge  id='364' source='rapaz-n-ast' target='rapaz-n-es'/>
+<edge  id='365' source='rapaz-n-ast' target='muchacho-n-es'/>
+<edge  id='366' source='boy-n-en' target='nene-n-es'/>
+<edge  id='367' source='bebo-n-eo' target='bebé-n-es'/>
+<edge  id='368' source='bebo-n-eo' target='crío-n-es'/>
+<edge  id='369' source='bebo-n-eo' target='nene-n-es'/>
+<edge  id='370' source='bebo-n-eo' target='bébé-n-fr'/>
+<edge  id='371' source='bebo-n-eo' target='bebè-n-ca'/>
+<edge  id='372' source='nini-n-eu' target='nene-n-es'/>
+<edge  id='373' source='boy-n-en' target='niño-n-es'/>
+<edge  id='374' source='infant-n-en' target='infant-n-ca'/>
+<edge  id='375' source='infant-n-en' target='niño-n-es'/>
+<edge  id='376' source='infant-n-en' target='neno-n-gl'/>
+<edge  id='377' source='infant-n-en' target='infano-n-eo'/>
+<edge  id='378' source='infant-n-en' target='infaneto-n-eo'/>
+<edge  id='379' source='infant-n-en' target='lulinfano-n-eo'/>
+<edge  id='380' source='infant-n-en' target='suinfano-n-eo'/>
+<edge  id='381' source='infant-n-en' target='haur-n-eu'/>
+<edge  id='382' source='infant-n-en' target='ume-n-eu'/>
+<edge  id='383' source='canalla-n-ca' target='menino-n-pt'/>
+<edge  id='384' source='canalla-n-ca' target='niño-n-es'/>
+<edge  id='385' source='canalla-n-ca' target='kanajlo-n-eo'/>
+<edge  id='386' source='infant-n-ca' target='infante-n-pt'/>
+<edge  id='387' source='infant-n-ca' target='menino-n-pt'/>
+<edge  id='388' source='infant-n-ca' target='infante-n-it'/>
+<edge  id='389' source='infant-n-ca' target='infante-n-es'/>
+<edge  id='390' source='infant-n-ca' target='niño-n-es'/>
+<edge  id='391' source='infant-n-ca' target='infant-n-oc'/>
+<edge  id='392' source='infant-n-ca' target='manit-n-oc'/>
+<edge  id='393' source='infant-n-ca' target='mainatge-n-oc'/>
+<edge  id='394' source='infant-n-ca' target='enfant-n-oc'/>
+<edge  id='395' source='infant-n-ca' target='infano-n-eo'/>
+<edge  id='396' source='infant-n-ca' target='princo-n-eo'/>
+<edge  id='397' source='ume-n-eu' target='niño-n-es'/>
+<edge  id='398' source='neskato-n-eu' target='niño-n-es'/>
+<edge  id='399' source='haur-n-eu' target='niño-n-es'/>
+<edge  id='400' source='haur-n-eu' target='boy-n-en'/>
+<edge  id='401' source='copil-n-ro' target='niño-n-es'/>
+<edge  id='402' source='prunc-n-ro' target='niño-n-es'/>
+<edge  id='403' source='nino-n-an' target='niño-n-es'/>
+<edge  id='404' source='neñu-n-ast' target='niño-n-es'/>
+<edge  id='405' source='meniño-n-gl' target='menino-n-pt'/>
+<edge  id='406' source='meniño-n-gl' target='boy-n-en'/>
+<edge  id='407' source='meniño-n-gl' target='niño-n-es'/>
+<edge  id='408' source='neno-n-gl' target='criança-n-pt'/>
+<edge  id='409' source='neno-n-gl' target='garoto-n-pt'/>
+<edge  id='410' source='neno-n-gl' target='boy-n-en'/>
+<edge  id='411' source='neno-n-gl' target='niño-n-es'/>
+<edge  id='412' source='pícaro-n-gl' target='boy-n-en'/>
+<edge  id='413' source='pícaro-n-gl' target='niño-n-es'/>
+<edge  id='414' source='enfant-n-oc' target='infant-n-ca'/>
+<edge  id='415' source='enfant-n-oc' target='niño-n-es'/>
+<edge  id='416' source='enfant-n-oc' target='infante-n-es'/>
+<edge  id='417' source='infant-n-oc' target='infant-n-ca'/>
+<edge  id='418' source='infant-n-oc' target='niño-n-es'/>
+<edge  id='419' source='boy-n-en' target='chico-n-gl'/>
+<edge  id='420' source='chico-n-gl' target='rapaz-n-pt'/>
+<edge  id='421' source='chico-n-gl' target='boy-n-en'/>
+<edge  id='422' source='boy-n-en' target='raparigo-n-gl'/>
+<edge  id='423' source='boy-n-en' target='mozo-n-gl'/>
+<edge  id='424' source='jovem-n-pt' target='jove-n-ca'/>
+<edge  id='425' source='jovem-n-pt' target='mozo-n-gl'/>
+<edge  id='426' source='jovem-n-pt' target='joven-n-es'/>
+<edge  id='427' source='junior-n-en' target='jove-n-ca'/>
+<edge  id='428' source='junior-n-en' target='joven-n-es'/>
+<edge  id='429' source='junior-n-en' target='mozo-n-gl'/>
+<edge  id='430' source='junior-n-en' target='subulo-n-eo'/>
+<edge  id='431' source='junior-n-en' target='malaltrangulo-n-eo'/>
+<edge  id='432' source='junior-n-en' target='junaulo-n-eo'/>
+<edge  id='433' source='junior-n-en' target='gazte-n-eu'/>
+<edge  id='434' source='junior-n-en' target='mendeko-n-eu'/>
+<edge  id='435' source='youngster-n-en' target='jove-n-ca'/>
+<edge  id='436' source='youngster-n-en' target='xaval-n-ca'/>
+<edge  id='437' source='youngster-n-en' target='chaval-n-es'/>
+<edge  id='438' source='youngster-n-en' target='joven-n-es'/>
+<edge  id='439' source='youngster-n-en' target='mozo-n-gl'/>
+<edge  id='440' source='youngster-n-en' target='junulo-n-eo'/>
+<edge  id='441' source='youngster-n-en' target='gazte-n-eu'/>
+<edge  id='442' source='mozo-n-es' target='portisto-n-eo'/>
+<edge  id='443' source='mozo-n-es' target='mosso-n-ca'/>
+<edge  id='444' source='mozo-n-es' target='vailet-n-ca'/>
+<edge  id='445' source='mozo-n-es' target='ezkongai-n-eu'/>
+<edge  id='446' source='mozo-n-es' target='fecior-n-ro'/>
+<edge  id='447' source='mozo-n-es' target='mozu-n-ast'/>
+<edge  id='448' source='mozo-n-es' target='mozo-n-gl'/>
+<edge  id='449' source='mozo-n-es' target='gojatòt-n-oc'/>
+<edge  id='450' source='mozo-n-es' target='mosso-n-oc'/>
+<edge  id='451' source='mozo-n-es' target='mòsso-n-oc'/>
+<edge  id='452' source='joven-n-es' target='junulo-n-eo'/>
+<edge  id='453' source='joven-n-es' target='jeune-n-fr'/>
+<edge  id='454' source='joven-n-es' target='jeunefille-n-fr'/>
+<edge  id='455' source='joven-n-es' target='jeunehomme-n-fr'/>
+<edge  id='456' source='joven-n-es' target='jove-n-ca'/>
+<edge  id='457' source='joven-n-es' target='gazte-n-eu'/>
+<edge  id='458' source='joven-n-es' target='tnr-n-ro'/>
+<edge  id='459' source='joven-n-es' target='mozu-n-ast'/>
+<edge  id='460' source='joven-n-es' target='mozo-n-gl'/>
+<edge  id='461' source='joven-n-es' target='joen-n-oc'/>
+<edge  id='462' source='joven-n-es' target='jove-n-oc'/>
+<edge  id='463' source='joven-n-es' target='jovem-n-pt'/>
+<edge  id='464' source='boy-n-en' target='meniño-n-gl'/>
+<edge  id='465' source='boy-n-en' target='pícaro-n-gl'/>
+<edge  id='466' source='boy-n-en' target='cativo-n-gl'/>
+<edge  id='467' source='cativo-n-gl' target='cativo-n-pt'/>
+<edge  id='468' source='cativo-n-pt' target='cativo-n-gl'/>
+<edge  id='469' source='cativo-n-pt' target='cautivo-n-es'/>
+<edge  id='470' source='cativo-n-gl' target='criança-n-pt'/>
+<edge  id='471' source='cativo-n-gl' target='menino-n-pt'/>
+<edge  id='472' source='captive-n-en' target='captiu-n-ca'/>
+<edge  id='473' source='captive-n-en' target='cautivo-n-es'/>
+<edge  id='474' source='captive-n-en' target='cativo-n-gl'/>
+<edge  id='475' source='captive-n-en' target='forkaptito-n-eo'/>
+<edge  id='476' source='cativo-n-gl' target='boy-n-en'/>
+<edge  id='477' source='cativo-n-gl' target='crío-n-es'/>
+<edge  id='478' source='crío-n-es' target='bebo-n-eo'/>
+<edge  id='479' source='crío-n-es' target='créature-n-fr'/>
+<edge  id='480' source='crío-n-es' target='criatura-n-ca'/>
+<edge  id='481' source='crío-n-es' target='umetxo-n-eu'/>
+<edge  id='482' source='crío-n-es' target='guahe-n-ast'/>
+<edge  id='483' source='crío-n-es' target='críu-n-ast'/>
+<edge  id='484' source='crío-n-es' target='cativo-n-gl'/>
+<edge  id='485' source='crío-n-es' target='creatura-n-oc'/>
+<edge  id='486' source='crío-n-es' target='criança-n-pt'/>
+<edge  id='487' source='boy-n-en' target='rapaz-n-gl'/>
+<edge  id='488' source='rapaz-n-gl' target='puto-n-pt'/>
+<edge  id='489' source='puto-n-pt' target='puto-n-ca'/>
+<edge  id='490' source='puto-n-pt' target='rapaz-n-gl'/>
+<edge  id='491' source='puto-n-pt' target='puto-n-es'/>
+<edge  id='492' source='rapaz-n-gl' target='rapaz-n-pt'/>
+<edge  id='493' source='rapaz-n-gl' target='criança-n-pt'/>
+<edge  id='494' source='rapaz-n-gl' target='boy-n-en'/>
+<edge  id='495' source='rapaz-n-gl' target='chaval-n-es'/>
+<edge  id='496' source='chaval-n-es' target='knabo-n-eo'/>
+<edge  id='497' source='chaval-n-es' target='infano-n-eo'/>
+<edge  id='498' source='chaval-n-es' target='gaillard-n-fr'/>
+<edge  id='499' source='chaval-n-es' target='xaval-n-ca'/>
+<edge  id='500' source='chaval-n-es' target='mutil-n-eu'/>
+<edge  id='501' source='chaval-n-es' target='puti-n-ro'/>
+<edge  id='502' source='chaval-n-es' target='chaval-n-ast'/>
+<edge  id='503' source='chaval-n-es' target='rapaz-n-gl'/>
+<edge  id='504' source='chaval-n-es' target='menino-n-pt'/>
+<edge  id='505' source='boy-n-en' target='neno-n-gl'/>
+<edge  id='506' source='boy-n-en' target='knabo-n-eo'/>
+<edge  id='507' source='pibe-n-es' target='knabo-n-eo'/>
+<edge  id='508' source='pibe-n-es' target='infano-n-eo'/>
+<edge  id='509' source='fils-n-fr' target='hijo-n-es'/>
+<edge  id='510' source='fils-n-fr' target='fill-n-ca'/>
+<edge  id='511' source='fils-n-fr' target='filo-n-eo'/>
+<edge  id='512' source='fils-n-fr' target='knabo-n-eo'/>
+<edge  id='513' source='gaillard-n-fr' target='chaval-n-es'/>
+<edge  id='514' source='gaillard-n-fr' target='xaval-n-ca'/>
+<edge  id='515' source='gaillard-n-fr' target='knabo-n-eo'/>
+<edge  id='516' source='gars-n-fr' target='knabo-n-eo'/>
+<edge  id='517' source='nin-n-ca' target='knabo-n-eo'/>
+<edge  id='518' source='boy-n-en' target='mutil-n-eu'/>
+<edge  id='519' source='varón-n-es' target='viro-n-eo'/>
+<edge  id='520' source='varón-n-es' target='homme-n-fr'/>
+<edge  id='521' source='varón-n-es' target='home-n-ca'/>
+<edge  id='522' source='varón-n-es' target='mutil-n-eu'/>
+<edge  id='523' source='varón-n-es' target='home-n-ast'/>
+<edge  id='524' source='varón-n-es' target='varón-n-ast'/>
+<edge  id='525' source='varón-n-es' target='varón-n-gl'/>
+<edge  id='526' source='varón-n-es' target='òme-n-oc'/>
+<edge  id='527' source='varón-n-es' target='varo-n-pt'/>
+<edge  id='528' source='boy-n-en' target='mutiko-n-eu'/>
+<edge  id='529' source='boy-n-en' target='haur-n-eu'/>
+<edge  id='530' source='baby-n-en' target='criatura-n-ca'/>
+<edge  id='531' source='baby-n-en' target='bebé-n-es'/>
+<edge  id='532' source='baby-n-en' target='criatura-n-es'/>
+<edge  id='533' source='baby-n-en' target='criatura-n-gl'/>
+<edge  id='534' source='baby-n-en' target='bebé-n-gl'/>
+<edge  id='535' source='baby-n-en' target='karulo-n-eo'/>
+<edge  id='536' source='baby-n-en' target='bebo-n-eo'/>
+<edge  id='537' source='baby-n-en' target='karulino-n-eo'/>
+<edge  id='538' source='baby-n-en' target='haur-n-eu'/>
+<edge  id='539' source='baby-n-en' target='kreatura-n-eu'/>
+</edges>
+</graph>

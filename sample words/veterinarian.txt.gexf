@@ -1,0 +1,54 @@
+<graph defaultedgetype="directed">
+
+<nodes>
+<node id='vétérinaire-n-fr' label='vétérinaire-n-fr'/>
+<node id='veterinário-n-pt' label='veterinário-n-pt'/>
+<node id='veterinario-n-it' label='veterinario-n-it'/>
+<node id='veterinario-n-es' label='veterinario-n-es'/>
+<node id='manescal-n-ca' label='manescal-n-ca'/>
+<node id='bestokuracisto-n-eo' label='bestokuracisto-n-eo'/>
+<node id='veterinarian-n-en' label='veterinarian-n-en'/>
+<node id='vet-n-en' label='vet-n-en'/>
+<node id='bestkuracisto-n-eo' label='bestkuracisto-n-eo'/>
+<node id='veterinariu-n-ast' label='veterinariu-n-ast'/>
+<node id='veterinaro-n-eo' label='veterinaro-n-eo'/>
+<node id='veterinar-n-ro' label='veterinar-n-ro'/>
+<node id='eksmilitisto-n-eo' label='eksmilitisto-n-eo'/>
+<node id='veterinari-n-ca' label='veterinari-n-ca'/>
+<node id='veterinario-n-gl' label='veterinario-n-gl'/>
+</nodes>
+
+<edges>
+<edge  id='1' source='veterinarian-n-en' target='veterinari-n-ca'/>
+<edge  id='2' source='veterinari-n-ca' target='veterinario-n-it'/>
+<edge  id='3' source='veterinario-n-it' target='veterinari-n-ca'/>
+<edge  id='4' source='veterinari-n-ca' target='veterinarian-n-en'/>
+<edge  id='5' source='veterinari-n-ca' target='veterinaro-n-eo'/>
+<edge  id='6' source='veterinaro-n-eo' target='veterinario-n-es'/>
+<edge  id='7' source='veterinaro-n-eo' target='veterinarian-n-en'/>
+<edge  id='8' source='veterinaro-n-eo' target='vétérinaire-n-fr'/>
+<edge  id='9' source='veterinaro-n-eo' target='veterinari-n-ca'/>
+<edge  id='10' source='veterinaro-n-eo' target='manescal-n-ca'/>
+<edge  id='11' source='veterinarian-n-en' target='veterinario-n-gl'/>
+<edge  id='12' source='veterinario-n-gl' target='veterinário-n-pt'/>
+<edge  id='13' source='veterinário-n-pt' target='veterinario-n-gl'/>
+<edge  id='14' source='veterinário-n-pt' target='veterinario-n-es'/>
+<edge  id='15' source='veterinario-n-gl' target='veterinarian-n-en'/>
+<edge  id='16' source='vet-n-en' target='veterinario-n-gl'/>
+<edge  id='17' source='vet-n-en' target='veterinaro-n-eo'/>
+<edge  id='18' source='vet-n-en' target='eksmilitisto-n-eo'/>
+<edge  id='19' source='veterinarian-n-en' target='veterinaro-n-eo'/>
+<edge  id='20' source='veterinario-n-es' target='bestokuracisto-n-eo'/>
+<edge  id='21' source='veterinario-n-es' target='bestkuracisto-n-eo'/>
+<edge  id='22' source='veterinario-n-es' target='veterinaro-n-eo'/>
+<edge  id='23' source='veterinario-n-es' target='vétérinaire-n-fr'/>
+<edge  id='24' source='veterinario-n-es' target='veterinar-n-ro'/>
+<edge  id='25' source='veterinario-n-es' target='veterinariu-n-ast'/>
+<edge  id='26' source='veterinario-n-es' target='veterinário-n-pt'/>
+<edge  id='27' source='vétérinaire-n-fr' target='veterinario-n-es'/>
+<edge  id='28' source='vétérinaire-n-fr' target='bestkuracisto-n-eo'/>
+<edge  id='29' source='vétérinaire-n-fr' target='bestokuracisto-n-eo'/>
+<edge  id='30' source='vétérinaire-n-fr' target='veterinaro-n-eo'/>
+<edge  id='31' source='manescal-n-ca' target='veterinaro-n-eo'/>
+</edges>
+</graph>

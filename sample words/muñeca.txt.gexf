@@ -1,0 +1,175 @@
+<graph defaultedgetype="directed">
+
+<nodes>
+<node id='polso-n-it' label='polso-n-it'/>
+<node id='ncheietur-n-ro' label='ncheietur-n-ro'/>
+<node id='nineta-n-ca' label='nineta-n-ca'/>
+<node id='pupilla-n-ca' label='pupilla-n-ca'/>
+<node id='ninot-n-ca' label='ninot-n-ca'/>
+<node id='muñeca-n-es' label='muñeca-n-es'/>
+<node id='marionnette-n-fr' label='marionnette-n-fr'/>
+<node id='pugno-n-eo' label='pugno-n-eo'/>
+<node id='moñecu-n-ast' label='moñecu-n-ast'/>
+<node id='nimfa-n-ca' label='nimfa-n-ca'/>
+<node id='ponh-n-oc' label='ponh-n-oc'/>
+<node id='pupille-n-fr' label='pupille-n-fr'/>
+<node id='pupilo-n-eo' label='pupilo-n-eo'/>
+<node id='punh-n-oc' label='punh-n-oc'/>
+<node id='pupa-n-ca' label='pupa-n-ca'/>
+<node id='poupée-n-fr' label='poupée-n-fr'/>
+<node id='monyica-n-ca' label='monyica-n-ca'/>
+<node id='nina-n-ca' label='nina-n-ca'/>
+<node id='canell-n-ca' label='canell-n-ca'/>
+<node id='punho-n-pt' label='punho-n-pt'/>
+<node id='poignet-n-fr' label='poignet-n-fr'/>
+<node id='manumo-n-eo' label='manumo-n-eo'/>
+<node id='wrist-n-en' label='wrist-n-en'/>
+<node id='eskumutur-n-eu' label='eskumutur-n-eu'/>
+<node id='manchette-n-fr' label='manchette-n-fr'/>
+<node id='pulso-n-gl' label='pulso-n-gl'/>
+<node id='doll-n-en' label='doll-n-en'/>
+<node id='moñeca-n-ast' label='moñeca-n-ast'/>
+<node id='punyet-n-ca' label='punyet-n-ca'/>
+<node id='pulse-n-en' label='pulse-n-en'/>
+<node id='muñeco-n-es' label='muñeco-n-es'/>
+<node id='bambola-n-it' label='bambola-n-it'/>
+<node id='pojno-n-eo' label='pojno-n-eo'/>
+<node id='fist-n-en' label='fist-n-en'/>
+<node id='chrysalide-n-fr' label='chrysalide-n-fr'/>
+<node id='boneco-n-pt' label='boneco-n-pt'/>
+<node id='manartiko-n-eo' label='manartiko-n-eo'/>
+<node id='pugno-n-it' label='pugno-n-it'/>
+<node id='poing-n-fr' label='poing-n-fr'/>
+<node id='manradiko-n-eo' label='manradiko-n-eo'/>
+<node id='puny-n-ca' label='puny-n-ca'/>
+<node id='pipòt-n-oc' label='pipòt-n-oc'/>
+<node id='pipa-n-oc' label='pipa-n-oc'/>
+<node id='boneco-n-gl' label='boneco-n-gl'/>
+<node id='muñeca-n-ast' label='muñeca-n-ast'/>
+<node id='moneca-n-gl' label='moneca-n-gl'/>
+<node id='boneca-n-gl' label='boneca-n-gl'/>
+<node id='pupo-n-eo' label='pupo-n-eo'/>
+<node id='prunelle-n-fr' label='prunelle-n-fr'/>
+<node id='ppu-n-ro' label='ppu-n-ro'/>
+</nodes>
+
+<edges>
+<edge  id='1' source='muñeca-n-es' target='pojno-n-eo'/>
+<edge  id='2' source='pojno-n-eo' target='muñeca-n-es'/>
+<edge  id='3' source='pojno-n-eo' target='wrist-n-en'/>
+<edge  id='4' source='wrist-n-en' target='canell-n-ca'/>
+<edge  id='5' source='wrist-n-en' target='muñeca-n-es'/>
+<edge  id='6' source='wrist-n-en' target='pulso-n-gl'/>
+<edge  id='7' source='wrist-n-en' target='moneca-n-gl'/>
+<edge  id='8' source='wrist-n-en' target='manradiko-n-eo'/>
+<edge  id='9' source='wrist-n-en' target='manartiko-n-eo'/>
+<edge  id='10' source='wrist-n-en' target='pojno-n-eo'/>
+<edge  id='11' source='wrist-n-en' target='eskumutur-n-eu'/>
+<edge  id='12' source='pojno-n-eo' target='poignet-n-fr'/>
+<edge  id='13' source='poignet-n-fr' target='muñeca-n-es'/>
+<edge  id='14' source='poignet-n-fr' target='pojno-n-eo'/>
+<edge  id='15' source='poignet-n-fr' target='manumo-n-eo'/>
+<edge  id='16' source='poignet-n-fr' target='manartiko-n-eo'/>
+<edge  id='17' source='poignet-n-fr' target='manradiko-n-eo'/>
+<edge  id='18' source='pojno-n-eo' target='poupée-n-fr'/>
+<edge  id='19' source='poupée-n-fr' target='muñeca-n-es'/>
+<edge  id='20' source='poupée-n-fr' target='nina-n-ca'/>
+<edge  id='21' source='poupée-n-fr' target='pojno-n-eo'/>
+<edge  id='22' source='poupée-n-fr' target='pupo-n-eo'/>
+<edge  id='23' source='pojno-n-eo' target='puny-n-ca'/>
+<edge  id='24' source='puny-n-ca' target='punho-n-pt'/>
+<edge  id='25' source='puny-n-ca' target='pugno-n-it'/>
+<edge  id='26' source='puny-n-ca' target='fist-n-en'/>
+<edge  id='27' source='puny-n-ca' target='ponh-n-oc'/>
+<edge  id='28' source='puny-n-ca' target='punh-n-oc'/>
+<edge  id='29' source='puny-n-ca' target='poing-n-fr'/>
+<edge  id='30' source='puny-n-ca' target='pojno-n-eo'/>
+<edge  id='31' source='puny-n-ca' target='pugno-n-eo'/>
+<edge  id='32' source='puny-n-ca' target='manumo-n-eo'/>
+<edge  id='33' source='pojno-n-eo' target='canell-n-ca'/>
+<edge  id='34' source='canell-n-ca' target='bambola-n-it'/>
+<edge  id='35' source='canell-n-ca' target='polso-n-it'/>
+<edge  id='36' source='canell-n-ca' target='wrist-n-en'/>
+<edge  id='37' source='canell-n-ca' target='muñeca-n-es'/>
+<edge  id='38' source='canell-n-ca' target='pojno-n-eo'/>
+<edge  id='39' source='muñeca-n-es' target='poupée-n-fr'/>
+<edge  id='40' source='muñeco-n-es' target='pupo-n-eo'/>
+<edge  id='41' source='muñeco-n-es' target='poupée-n-fr'/>
+<edge  id='42' source='muñeco-n-es' target='doll-n-en'/>
+<edge  id='43' source='muñeco-n-es' target='ninot-n-ca'/>
+<edge  id='44' source='muñeco-n-es' target='moñecu-n-ast'/>
+<edge  id='45' source='muñeco-n-es' target='pipòt-n-oc'/>
+<edge  id='46' source='muñeco-n-es' target='boneco-n-pt'/>
+<edge  id='47' source='nina-n-ca' target='boneco-n-pt'/>
+<edge  id='48' source='nina-n-ca' target='bambola-n-it'/>
+<edge  id='49' source='nina-n-ca' target='doll-n-en'/>
+<edge  id='50' source='nina-n-ca' target='muñeca-n-es'/>
+<edge  id='51' source='nina-n-ca' target='pipa-n-oc'/>
+<edge  id='52' source='nina-n-ca' target='poupée-n-fr'/>
+<edge  id='53' source='nina-n-ca' target='pupilo-n-eo'/>
+<edge  id='54' source='nina-n-ca' target='pupo-n-eo'/>
+<edge  id='55' source='pupo-n-eo' target='doll-n-en'/>
+<edge  id='56' source='pupo-n-eo' target='chrysalide-n-fr'/>
+<edge  id='57' source='pupo-n-eo' target='marionnette-n-fr'/>
+<edge  id='58' source='pupo-n-eo' target='poupée-n-fr'/>
+<edge  id='59' source='pupo-n-eo' target='pupa-n-ca'/>
+<edge  id='60' source='pupo-n-eo' target='nimfa-n-ca'/>
+<edge  id='61' source='pupo-n-eo' target='nina-n-ca'/>
+<edge  id='62' source='muñeca-n-es' target='poignet-n-fr'/>
+<edge  id='63' source='manumo-n-eo' target='manchette-n-fr'/>
+<edge  id='64' source='manumo-n-eo' target='poignet-n-fr'/>
+<edge  id='65' source='manumo-n-eo' target='punyet-n-ca'/>
+<edge  id='66' source='manumo-n-eo' target='puny-n-ca'/>
+<edge  id='67' source='manartiko-n-eo' target='wrist-n-en'/>
+<edge  id='68' source='manartiko-n-eo' target='poignet-n-fr'/>
+<edge  id='69' source='manradiko-n-eo' target='wrist-n-en'/>
+<edge  id='70' source='manradiko-n-eo' target='poignet-n-fr'/>
+<edge  id='71' source='muñeca-n-es' target='doll-n-en'/>
+<edge  id='72' source='doll-n-en' target='nina-n-ca'/>
+<edge  id='73' source='doll-n-en' target='muñeca-n-es'/>
+<edge  id='74' source='doll-n-en' target='moneca-n-gl'/>
+<edge  id='75' source='moneca-n-gl' target='doll-n-en'/>
+<edge  id='76' source='moneca-n-gl' target='wrist-n-en'/>
+<edge  id='77' source='moneca-n-gl' target='muñeca-n-es'/>
+<edge  id='78' source='doll-n-en' target='boneca-n-gl'/>
+<edge  id='79' source='boneca-n-gl' target='doll-n-en'/>
+<edge  id='80' source='boneca-n-gl' target='muñeca-n-es'/>
+<edge  id='81' source='doll-n-en' target='pupo-n-eo'/>
+<edge  id='82' source='muñeca-n-es' target='wrist-n-en'/>
+<edge  id='83' source='pulso-n-gl' target='pulse-n-en'/>
+<edge  id='84' source='pulso-n-gl' target='wrist-n-en'/>
+<edge  id='85' source='eskumutur-n-eu' target='muñeca-n-es'/>
+<edge  id='86' source='eskumutur-n-eu' target='wrist-n-en'/>
+<edge  id='87' source='muñeca-n-es' target='canell-n-ca'/>
+<edge  id='88' source='bambola-n-it' target='canell-n-ca'/>
+<edge  id='89' source='bambola-n-it' target='monyica-n-ca'/>
+<edge  id='90' source='bambola-n-it' target='nina-n-ca'/>
+<edge  id='91' source='polso-n-it' target='canell-n-ca'/>
+<edge  id='92' source='muñeca-n-es' target='monyica-n-ca'/>
+<edge  id='93' source='monyica-n-ca' target='bambola-n-it'/>
+<edge  id='94' source='monyica-n-ca' target='muñeca-n-es'/>
+<edge  id='95' source='muñeca-n-es' target='nina-n-ca'/>
+<edge  id='96' source='boneco-n-pt' target='nina-n-ca'/>
+<edge  id='97' source='boneco-n-pt' target='ninot-n-ca'/>
+<edge  id='98' source='boneco-n-pt' target='boneco-n-gl'/>
+<edge  id='99' source='pipa-n-oc' target='nina-n-ca'/>
+<edge  id='100' source='pipa-n-oc' target='muñeca-n-es'/>
+<edge  id='101' source='pupilo-n-eo' target='prunelle-n-fr'/>
+<edge  id='102' source='pupilo-n-eo' target='pupille-n-fr'/>
+<edge  id='103' source='pupilo-n-eo' target='pupilla-n-ca'/>
+<edge  id='104' source='pupilo-n-eo' target='nina-n-ca'/>
+<edge  id='105' source='pupilo-n-eo' target='nineta-n-ca'/>
+<edge  id='106' source='muñeca-n-es' target='eskumutur-n-eu'/>
+<edge  id='107' source='muñeca-n-es' target='ppu-n-ro'/>
+<edge  id='108' source='ppu-n-ro' target='muñeca-n-es'/>
+<edge  id='109' source='muñeca-n-es' target='ncheietur-n-ro'/>
+<edge  id='110' source='ncheietur-n-ro' target='muñeca-n-es'/>
+<edge  id='111' source='muñeca-n-es' target='muñeca-n-ast'/>
+<edge  id='112' source='muñeca-n-ast' target='muñeca-n-es'/>
+<edge  id='113' source='muñeca-n-es' target='moñeca-n-ast'/>
+<edge  id='114' source='moñeca-n-ast' target='muñeca-n-es'/>
+<edge  id='115' source='muñeca-n-es' target='boneca-n-gl'/>
+<edge  id='116' source='muñeca-n-es' target='moneca-n-gl'/>
+<edge  id='117' source='muñeca-n-es' target='pipa-n-oc'/>
+</edges>
+</graph>
