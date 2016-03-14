@@ -1,0 +1,120 @@
+The EN-FR experiment reported here was performed using the initial algorythm. 
+
+wc -l 
+
+ 6856 FR-Reference-dict.txt   	(reference EN-FR pairs in reference dictionary used)
+ 2745 FR-no-repetition.txt	(en-fr plus scores in no lang repetition mode)
+ 2772 FR-yes-repetitions.txt    (en-fr plus scores in yes lang repetition mode)
+
+
+Scores for generated candidates:
+=================================
+
+awk '{print $3;}' FR-yes-repetitions.txt | sort | uniq -c
+     28 0.4666666666666667
+     52 0.5
+     99 0.5333333333333333
+    208 0.6
+    174 0.6666666666666666
+    177 0.7
+      3 0.7333333333333333
+   1233 0.8333333333333334
+    798 0.9
+
+awk '{print $3;}' FR-no-repetition.txt | sort | uniq -c
+     13 0.4666666666666667
+     43 0.5
+     41 0.5333333333333333
+    156 0.6
+     85 0.6666666666666666
+    183 0.7
+   1344 0.8333333333333334
+    880 0.9
+
+Checking candidates against reference dict:
+==========================================
+
+fgrep -f FR-Reference-dict.txt FR-no-repetition.txt > FR-tested-no.txt
+fgrep -f FR-Reference-dict.txt FR-yes-repetitions.txt > FR-tested-yes.txt
+
+wc -l FR-tested-*
+
+wc -l FR-tested-*
+ 1858 FR-tested-no.txt
+ 1769 FR-tested-yes.txt
+
+wc -l FR-NO-In-tested-*
+  887 FR-NO-In-tested-no.txt
+ 1003 FR-NO-In-tested-yes.txt
+
+
+ 
+What about 'untested'???
+=========================
+
+Though an initial manual inspection showed that 'extra' translations were correct, we check doll/wrist examples and found
+that in the no-repetition mode the wrong pair doll/poignet is no longer produced but the wrist/poupée pair is still produced 
+in any both modes (and with a high score). (Though we were not able to perform a complete checking, we may conclude that 
+extra targets were ok but we still had problems with cross polysemy.)
+
+
+in yes repetition:
+doll	poignet	0.6
+doll	poupée	0.8333333333333334
+wrist	poignet	0.8333333333333334
+wrist	poupée	0.8333333333333334
+
+in no repetition:
+doll	poupée	0.8333333333333334
+wrist	poignet	0.8333333333333334
+wrist	poupée	0.8333333333333334
+
+
+This led us to be more restrictive when accepting cycles:
+
+1) minimal length of cycles: for words with small contexts we require at least 5 nodes, for words with big contexts we 
+require a minimun of 6 nodes. Small contexts: up to five root translations; big contexts: more that 5 translations.
+
+2) linking to root word: in any case we require that at least 50% of 'far nodes' are linked to root word. Far nodes: nodes 
+in the cycle of W that are not next to root. This means that in a 6 node cycle like: ROOT-NODE1-TARGET-NODE2-NODE3-NODE4-ROOT 
+all nodes but the TARGET one are required to be linked to root.
+
+3) set a threshold of 0.7 
+
+
+compare: 
+WRIST (previous computation)
+Top scores in all cycles:
+('poupée-n-fr', 0.8333333333333334, 4, ['pojno-n-eo', 'poup%C3%A9e-n-fr', 'mu%C3%B1eca-n-es', 'wrist-n-en'])
+('monyica-n-ca', 0.6, 6, ['pojno-n-eo', 'mu%C3%B1eca-n-es', 'monyica-n-ca', 'bambola-n-it', 'canell-n-ca', 'wrist-n-en'])
+('nina-n-ca', 0.7, 5, ['pojno-n-eo', 'poup%C3%A9e-n-fr', 'nina-n-ca', 'mu%C3%B1eca-n-es', 'wrist-n-en'])
+('bambola-n-it', 0.6, 6, ['pojno-n-eo', 'mu%C3%B1eca-n-es', 'nina-n-ca', 'bambola-n-it', 'canell-n-ca', 'wrist-n-en'])
+('pipa-n-oc', 0.6, 6, ['pojno-n-eo', 'poup%C3%A9e-n-fr', 'nina-n-ca', 'pipa-n-oc', 'mu%C3%B1eca-n-es', 'wrist-n-en'])
+('poignet-n-fr', 0.8333333333333334, 4, ['pojno-n-eo', 'poignet-n-fr', 'mu%C3%B1eca-n-es', 'wrist-n-en'])
+
+Top scores in 'unique language' cycles:
+('nina-n-ca', 0.7, 5, ['pojno-n-eo', 'poup%C3%A9e-n-fr', 'nina-n-ca', 'mu%C3%B1eca-n-es', 'wrist-n-en'])
+('pipa-n-oc', 0.6, 6, ['pojno-n-eo', 'poup%C3%A9e-n-fr', 'nina-n-ca', 'pipa-n-oc', 'mu%C3%B1eca-n-es', 'wrist-n-en'])
+('poignet-n-fr', 0.8333333333333334, 4, ['pojno-n-eo', 'poignet-n-fr', 'mu%C3%B1eca-n-es', 'wrist-n-en'])
+('poup%C3%A9e-n-fr', 0.8333333333333334, 4, ['pojno-n-eo', 'poup%C3%A9e-n-fr', 'mu%C3%B1eca-n-es', 'wrist-n-en'])
+
+WRIST (current computation)
+Top scores in all cycles:
+('poup%C3%A9e-n-fr', 0.6666666666666666, 6, ['moneca-n-gl', 'mu%C3%B1eca-n-es', 'poup%C3%A9e-n-fr', 'pojno-n-eo', 'canell-n-ca', 'wrist-n-en'])
+('monyica-n-ca', 0.5238095238095238, 7, ['pojno-n-eo', 'canell-n-ca', 'bambola-n-it', 'monyica-n-ca', 'mu%C3%B1eca-n-es', 'moneca-n-gl', 'wrist-n-en'])
+('nina-n-ca', 0.5714285714285714, 7, ['moneca-n-gl', 'mu%C3%B1eca-n-es', 'nina-n-ca', 'poup%C3%A9e-n-fr', 'pojno-n-eo', 'canell-n-ca', 'wrist-n-en'])
+('bambola-n-it', 0.5238095238095238, 7, ['pojno-n-eo', 'canell-n-ca', 'bambola-n-it', 'nina-n-ca', 'mu%C3%B1eca-n-es', 'moneca-n-gl', 'wrist-n-en'])
+('pipa-n-oc', 0, 8, ['pojno-n-eo', 'poup%C3%A9e-n-fr', 'nina-n-ca', 'pipa-n-oc', 'mu%C3%B1eca-n-es', 'poignet-n-fr', 'manradiko-n-eo', 'wrist-n-en'])
+('poignet-n-fr', 0.6666666666666666, 6, ['pojno-n-eo', 'canell-n-ca', 'mu%C3%B1eca-n-es', 'poignet-n-fr', 'manradiko-n-eo', 'wrist-n-en'])
+
+Top scores in 'unique language' cycles:
+('nina-n-ca', 0, 7, ['pojno-n-eo', 'poup%C3%A9e-n-fr', 'nina-n-ca', 'pipa-n-oc', 'mu%C3%B1eca-n-es', 'moneca-n-gl', 'wrist-n-en'])
+('pipa-n-oc', 0, 7, ['pojno-n-eo', 'poup%C3%A9e-n-fr', 'nina-n-ca', 'pipa-n-oc', 'mu%C3%B1eca-n-es', 'moneca-n-gl', 'wrist-n-en'])
+('poignet-n-fr', 0.6666666666666666, 6, ['moneca-n-gl', 'mu%C3%B1eca-n-es', 'poignet-n-fr', 'pojno-n-eo', 'canell-n-ca', 'wrist-n-en'])
+('poup%C3%A9e-n-fr', 0.6666666666666666, 6, ['moneca-n-gl', 'mu%C3%B1eca-n-es', 'poup%C3%A9e-n-fr', 'pojno-n-eo', 'canell-n-ca', 'wrist-n-en'])
+
+This rather more restrictive criteria correctly removes wrong candidates comming from 'cross polisemy'. 
+This is goog but as a direct consequence we get less candidates. Initially, we required that all cycles ad at least 
+6 nodes. This excluded all words with small contexts. For example, 'Alpha' and 'abacus' words had no cycles > 5:
+
+
