@@ -3,7 +3,7 @@
 ##
 ##
 ##
-## usage: python calculateCycles.py  dict.file  lang  (verbose) >  output.file
+## usage: python calculateCycles.py  dict.file  lang  (v) >  output.file
 ##
 ##################################
 from SPARQLWrapper import SPARQLWrapper, JSON
